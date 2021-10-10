@@ -1,5 +1,6 @@
 namespace MovieApp.Controllers
 {
+    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
     using MovieApp.Core.DTOs;
     using MovieApp.Core.DTOs.MediaDtos;
@@ -42,8 +43,8 @@ namespace MovieApp.Controllers
             return Ok(response);
         }
 
-        //[Authorize(Roles = "Admin")]
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<ServiceResponse<AddMediaDto>>> AddMedia(AddMediaDto media)
         {
             var response = new ServiceResponse<AddMediaDto>();
@@ -54,6 +55,7 @@ namespace MovieApp.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<ServiceResponse<UpdateMediaDto>>> UpdateMedia(UpdateMediaDto media)
         {
             var response = new ServiceResponse<UpdateMediaDto>();
