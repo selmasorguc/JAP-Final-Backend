@@ -7,7 +7,7 @@ namespace MovieApp.Core.DTOs.ScreeningDtos
     {
         public DateTime StartTime { get; set; }
 
-        [Range(0, 150)]
+        [Range(0, 1000)]
         public int MaxSeatsNumber { get; set; }
 
         [Required]

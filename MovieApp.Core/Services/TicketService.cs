@@ -5,6 +5,7 @@ namespace MovieApp.Core.Services
     using MovieApp.Core.Entities;
     using MovieApp.Core.Interfaces;
     using System;
+    using System.Collections.Generic;
     using System.Threading.Tasks;
 
     public class TicketService : ITicketService
@@ -44,7 +45,7 @@ namespace MovieApp.Core.Services
                 throw new ArgumentException("Movie id is not valid.");
 
             var screening = await _screeningRepository.GetScreening(ticket.ScreeningId);
-            if (screening == null) 
+            if (screening == null)
                 throw new ArgumentException("Screening id is not valid.");
 
             if (screening.StartTime < DateTime.Today)
@@ -55,21 +56,37 @@ namespace MovieApp.Core.Services
             else
             {
                 var user = await _authRepository.GetUserByUsernameAsync(username);
-                var addTicket = new Ticket
+                for (int i = 0; i < ticket.NumberOfTickets; i++)
                 {
-                    User = user,
-                    Screening = screening,
-                    MediaId = ticket.MediaId,
-                    ScreeningId = screening.Id,
-                    UserId = user.Id
-                };
-                screening.SoldTickets.Add(addTicket);
-                //Addting the new ticket to DB
-                await _ticketRepository.AddTicket(addTicket);
-                await _screeningRepository.UpdateScreening(screening);
+                    var addTicket = new Ticket
+                    {
+                        User = user,
+                        Screening = screening,
+                        MediaId = ticket.MediaId,
+                        ScreeningId = screening.Id,
+                        UserId = user.Id
+                    };
+                    screening.SoldTickets.Add(addTicket);
+                    //Addting the new ticket to DB
+                    await _ticketRepository.AddTicket(addTicket);
+                    await _screeningRepository.UpdateScreening(screening);
+                }
                 serviceResponse.Data = ticket;
             }
 
+            return serviceResponse;
+        }
+
+        /// <summary>
+        /// Get all tickets of a user whose username is given
+        /// </summary>
+        /// <param name="username"></param>
+        /// <returns>List of tickets</returns>
+        public async Task<ServiceResponse<List<GetTicketDto>>> GetUserTickets(string username)
+        {
+            var serviceResponse = new ServiceResponse<List<GetTicketDto>>();
+            var user = await _authRepository.GetUserByUsernameAsync(username);
+            serviceResponse.Data = _mapper.Map<List<GetTicketDto>>(await _ticketRepository.GetUserTickets(user.Id));
             return serviceResponse;
         }
     }

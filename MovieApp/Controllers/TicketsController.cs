@@ -5,6 +5,7 @@ namespace API.Controllers
     using MovieApp.Core.DTOs.TicketDtos;
     using MovieApp.Core.Entities;
     using MovieApp.Core.Interfaces;
+    using System.Collections.Generic;
     using System.Security.Claims;
     using System.Threading.Tasks;
 
@@ -32,6 +33,16 @@ namespace API.Controllers
             var username = User.FindFirst(ClaimTypes.Name)?.Value;
 
             var serviceResponse = await _ticketService.BuyTicket(ticket, username);
+
+            if (serviceResponse.Data == null) return NotFound(serviceResponse);
+
+            return Ok(serviceResponse);
+        }
+
+        [HttpGet("user/{username}")]
+        public async Task<ActionResult<ServiceResponse<List<GetTicketDto>>>> GetUserTickets(string username)
+        {
+            var serviceResponse = await _ticketService.GetUserTickets(username);
 
             if (serviceResponse.Data == null) return NotFound(serviceResponse);
 

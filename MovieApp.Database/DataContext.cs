@@ -4,7 +4,6 @@ namespace MovieApp.Database
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
     using MovieApp.Core.Entities;
-    using MovieApp.Core.Entities.StoredProceduresEntities;
 
     public class DataContext : IdentityDbContext<AppUser, AppRole, int,
        IdentityUserClaim<int>, AppUserRole, IdentityUserLogin<int>,
@@ -16,11 +15,6 @@ namespace MovieApp.Database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            //Stored procedures models
-            modelBuilder.Entity<Top10Item>().HasNoKey();
-            modelBuilder.Entity<TopScreened>().HasNoKey();
-            modelBuilder.Entity<TopSold>().HasNoKey();
-
 
             modelBuilder.Entity<AppUser>()
                .HasMany(ur => ur.UserRoles)
@@ -46,11 +40,5 @@ namespace MovieApp.Database
         public DbSet<Ticket> Tickets { get; set; }
 
         public DbSet<Screening> Screenings { get; set; }
-
-        public DbSet<Top10Item> TopRatedMovies { get; set; }
-
-        public DbSet<TopScreened> TopScreenedMovies { get; set; }
-
-        public DbSet<TopSold> TopSoldMovies { get; set; }
     }
 }

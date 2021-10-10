@@ -38,7 +38,7 @@ namespace MovieApp.Core.Services
         public async Task<UpdateMediaDto> UpdateMedia(UpdateMediaDto media)
         {
             var preUpdate = await _mediaRepository.GetSingleMediaAync(media.Id);
-             _mapper.Map(media, preUpdate);
+            _mapper.Map(media, preUpdate);
             await _mediaRepository.UpdateMedia(preUpdate);
             return media;
         }

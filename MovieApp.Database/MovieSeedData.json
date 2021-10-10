@@ -1,2801 +1,2801 @@
 [
   {
-    "Title": "ad sint",
-    "ReleaseDate": "2004-10-17",
-    "Description": "In exercitation sint non deserunt reprehenderit veniam.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+    "Title": "Harry Potter",
+    "ReleaseDate": "2024-04-26",
+    "Description": "Eu ad tempor in aliquip reprehenderit do consectetur et incididunt.",
+    "CoverUrl": "https://picsum.photos/id/162/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Hilda",
-        "LastName": "Lang"
+        "FirstName": "Hamilton",
+        "LastName": "Spears"
       },
       {
-        "FirstName": "Ronda",
-        "LastName": "Gillespie"
+        "FirstName": "Alexandra",
+        "LastName": "Mckay"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.1045
+        "Value": 0.88
       },
       {
-        "Value": 1.201
+        "Value": 2.65
       },
       {
-        "Value": 1.6762
+        "Value": 1.12
       }
     ]
   },
   {
-    "Title": "nostrud deserunt",
-    "ReleaseDate": "1986-11-05",
-    "Description": "Mollit cupidatat dolor ex tempor eu aliqua ullamco anim aliqua sunt elit irure.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/92.jpg",
+    "Title": "The Shawshank Redemption",
+    "ReleaseDate": "1986-02-26",
+    "Description": "Est irure ex mollit qui eiusmod amet.",
+    "CoverUrl": "https://picsum.photos/id/159/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Serena",
-        "LastName": "Hayden"
+        "FirstName": "Decker",
+        "LastName": "Phillips"
       },
       {
-        "FirstName": "Hazel",
-        "LastName": "Sexton"
+        "FirstName": "Antoinette",
+        "LastName": "Slater"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.548
+        "Value": 4.83
       },
       {
-        "Value": 1.9416
+        "Value": 1.66
       },
       {
-        "Value": 2.3194
+        "Value": 4.84
       }
     ]
   },
   {
-    "Title": "ea id",
-    "ReleaseDate": "2001-01-10",
-    "Description": "Exercitation nulla consectetur nulla culpa tempor cupidatat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/58.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Taylor",
-        "LastName": "Davis"
-      },
-      {
-        "FirstName": "Willis",
-        "LastName": "Ingram"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.9197
-      },
-      {
-        "Value": 4.9413
-      },
-      {
-        "Value": 2.6625
-      }
-    ]
-  },
-  {
-    "Title": "aliquip proident",
-    "ReleaseDate": "1980-06-08",
-    "Description": "Lorem dolore nostrud dolore ex in deserunt quis.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/91.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Odom",
-        "LastName": "Leonard"
-      },
-      {
-        "FirstName": "Lavonne",
-        "LastName": "Combs"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.6627
-      },
-      {
-        "Value": 2.8103
-      },
-      {
-        "Value": 4.407
-      }
-    ]
-  },
-  {
-    "Title": "id ea",
-    "ReleaseDate": "1994-04-12",
-    "Description": "Cillum officia labore sunt amet exercitation cupidatat proident aute sunt amet.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/42.jpg",
+    "Title": "The Godfather",
+    "ReleaseDate": "1980-12-18",
+    "Description": "Velit ea veniam voluptate exercitation.",
+    "CoverUrl": "https://picsum.photos/id/195/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Ruby",
-        "LastName": "Oneil"
+        "FirstName": "Rosales",
+        "LastName": "Rivera"
       },
       {
-        "FirstName": "Minerva",
-        "LastName": "Morse"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.4267
-      },
-      {
-        "Value": 0.277
-      },
-      {
-        "Value": 2.1161
-      }
-    ]
-  },
-  {
-    "Title": "enim ex",
-    "ReleaseDate": "1991-06-19",
-    "Description": "Ipsum nulla dolore fugiat consequat aliquip incididunt aute sit non duis.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/60.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Elinor",
-        "LastName": "Garrison"
-      },
-      {
-        "FirstName": "Mcclain",
-        "LastName": "Patton"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.1902
-      },
-      {
-        "Value": 2.3956
-      },
-      {
-        "Value": 1.1814
-      }
-    ]
-  },
-  {
-    "Title": "adipisicing laborum",
-    "ReleaseDate": "1983-11-22",
-    "Description": "Sit sunt quis irure sint ex minim sunt aute sit magna occaecat esse occaecat labore.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/41.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Stacey",
-        "LastName": "Mcpherson"
-      },
-      {
-        "FirstName": "Hale",
-        "LastName": "Mays"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.2134
-      },
-      {
-        "Value": 4.7776
-      },
-      {
-        "Value": 2.6781
-      }
-    ]
-  },
-  {
-    "Title": "nostrud Lorem",
-    "ReleaseDate": "2005-11-24",
-    "Description": "Voluptate commodo incididunt qui qui esse eiusmod exercitation eiusmod nostrud quis qui.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/90.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Alexis",
-        "LastName": "Peterson"
-      },
-      {
-        "FirstName": "Jewel",
-        "LastName": "Stokes"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.4167
-      },
-      {
-        "Value": 1.9768
-      },
-      {
-        "Value": 2.9919
-      }
-    ]
-  },
-  {
-    "Title": "et aliqua",
-    "ReleaseDate": "1988-10-11",
-    "Description": "Ex eiusmod amet mollit exercitation sit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/43.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Frazier",
-        "LastName": "Beck"
-      },
-      {
-        "FirstName": "Susanna",
-        "LastName": "Roberts"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.3888
-      },
-      {
-        "Value": 1.664
-      },
-      {
-        "Value": 4.7119
-      }
-    ]
-  },
-  {
-    "Title": "amet id",
-    "ReleaseDate": "2002-03-31",
-    "Description": "Adipisicing qui irure reprehenderit excepteur id.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/77.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Shelton",
-        "LastName": "Pena"
-      },
-      {
-        "FirstName": "Ollie",
-        "LastName": "Washington"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.2244
-      },
-      {
-        "Value": 0.5795
-      },
-      {
-        "Value": 1.804
-      }
-    ]
-  },
-  {
-    "Title": "ad commodo",
-    "ReleaseDate": "2012-07-30",
-    "Description": "Esse exercitation consequat velit aliquip labore anim eu quis in mollit culpa officia eu.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/38.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Mccoy",
-        "LastName": "Bailey"
-      },
-      {
-        "FirstName": "Combs",
-        "LastName": "Cardenas"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.2815
-      },
-      {
-        "Value": 0.8482
-      },
-      {
-        "Value": 1.5346
-      }
-    ]
-  },
-  {
-    "Title": "mollit ipsum",
-    "ReleaseDate": "2010-09-21",
-    "Description": "Ut ut laboris sint elit aliqua do id est fugiat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/70.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Schmidt",
-        "LastName": "Lawrence"
-      },
-      {
-        "FirstName": "Krista",
-        "LastName": "Marsh"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.7974
-      },
-      {
-        "Value": 2.8837
-      },
-      {
-        "Value": 1.44
-      }
-    ]
-  },
-  {
-    "Title": "aliqua duis",
-    "ReleaseDate": "2004-08-21",
-    "Description": "Labore dolore minim deserunt officia dolor sit do et.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/60.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Rosa",
-        "LastName": "Rasmussen"
-      },
-      {
-        "FirstName": "Kimberly",
-        "LastName": "Ayers"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.1675
-      },
-      {
-        "Value": 1.3928
-      },
-      {
-        "Value": 3.0159
-      }
-    ]
-  },
-  {
-    "Title": "excepteur occaecat",
-    "ReleaseDate": "1996-11-27",
-    "Description": "Dolore anim ut ut nostrud amet nulla non exercitation.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/29.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Peck",
-        "LastName": "Graham"
-      },
-      {
-        "FirstName": "Latisha",
-        "LastName": "Christian"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.8241
-      },
-      {
-        "Value": 0.9004
-      },
-      {
-        "Value": 3.7515
-      }
-    ]
-  },
-  {
-    "Title": "nisi cupidatat",
-    "ReleaseDate": "2009-10-27",
-    "Description": "Anim fugiat nostrud ea sint.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/71.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Laura",
-        "LastName": "Buckley"
-      },
-      {
-        "FirstName": "Key",
-        "LastName": "Hutchinson"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.2406
-      },
-      {
-        "Value": 0.5836
-      },
-      {
-        "Value": 3.988
-      }
-    ]
-  },
-  {
-    "Title": "officia quis",
-    "ReleaseDate": "2008-03-25",
-    "Description": "Aliqua nostrud in mollit consequat esse aliqua quis ullamco.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/82.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Stafford",
-        "LastName": "Henry"
-      },
-      {
-        "FirstName": "Wilkerson",
-        "LastName": "Santiago"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.502
-      },
-      {
-        "Value": 4.3098
-      },
-      {
-        "Value": 3.6996
-      }
-    ]
-  },
-  {
-    "Title": "dolor qui",
-    "ReleaseDate": "2011-06-18",
-    "Description": "Ad nulla mollit eiusmod laboris id minim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/90.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Lucia",
-        "LastName": "Pugh"
-      },
-      {
-        "FirstName": "Gracie",
-        "LastName": "Petersen"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.2472
-      },
-      {
-        "Value": 0.7327
-      },
-      {
-        "Value": 1.1687
-      }
-    ]
-  },
-  {
-    "Title": "veniam tempor",
-    "ReleaseDate": "2005-12-30",
-    "Description": "Esse quis officia irure eu eu pariatur duis ea commodo non aliquip laborum enim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/33.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Castro",
-        "LastName": "Blair"
-      },
-      {
-        "FirstName": "Whitley",
-        "LastName": "Manning"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.5048
-      },
-      {
-        "Value": 4.6876
-      },
-      {
-        "Value": 0.1704
-      }
-    ]
-  },
-  {
-    "Title": "et est",
-    "ReleaseDate": "2005-06-19",
-    "Description": "Voluptate veniam aute consectetur laboris ex ea dolor sint laboris veniam officia id.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/74.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Pat",
-        "LastName": "Velasquez"
-      },
-      {
-        "FirstName": "Shawna",
-        "LastName": "Ortega"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.8512
-      },
-      {
-        "Value": 1.1773
-      },
-      {
-        "Value": 3.44
-      }
-    ]
-  },
-  {
-    "Title": "adipisicing reprehenderit",
-    "ReleaseDate": "1996-05-12",
-    "Description": "Aliqua tempor labore voluptate Lorem.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/21.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Carmella",
-        "LastName": "Whitney"
-      },
-      {
-        "FirstName": "Boyer",
-        "LastName": "Hardin"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.7972
-      },
-      {
-        "Value": 4.6441
-      },
-      {
-        "Value": 4.7548
-      }
-    ]
-  },
-  {
-    "Title": "culpa cupidatat",
-    "ReleaseDate": "2005-07-15",
-    "Description": "Esse aute aliquip est ut enim ipsum dolor labore qui anim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/68.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Griffith",
-        "LastName": "Higgins"
-      },
-      {
-        "FirstName": "Pearl",
-        "LastName": "Melton"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.7735
-      },
-      {
-        "Value": 4.8157
-      },
-      {
-        "Value": 4.0572
-      }
-    ]
-  },
-  {
-    "Title": "eu reprehenderit",
-    "ReleaseDate": "1987-03-21",
-    "Description": "Proident eiusmod non id eu et id.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/68.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Vickie",
-        "LastName": "Church"
-      },
-      {
-        "FirstName": "Allyson",
-        "LastName": "Kane"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.9466
-      },
-      {
-        "Value": 0.5977
-      },
-      {
-        "Value": 3.8125
-      }
-    ]
-  },
-  {
-    "Title": "dolor consequat",
-    "ReleaseDate": "1982-05-11",
-    "Description": "Incididunt pariatur nulla minim nisi reprehenderit sint mollit laboris esse veniam aute culpa nulla nisi.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/26.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Huber",
-        "LastName": "Richard"
-      },
-      {
-        "FirstName": "Diane",
-        "LastName": "Rodgers"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.0154
-      },
-      {
-        "Value": 0.9017
-      },
-      {
-        "Value": 4.6105
-      }
-    ]
-  },
-  {
-    "Title": "aute reprehenderit",
-    "ReleaseDate": "1998-01-15",
-    "Description": "Anim do eu Lorem consectetur irure velit in anim reprehenderit dolore fugiat fugiat anim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/90.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Johns",
-        "LastName": "Whitfield"
-      },
-      {
-        "FirstName": "Shauna",
-        "LastName": "Wall"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.1318
-      },
-      {
-        "Value": 0.8174
-      },
-      {
-        "Value": 3.199
-      }
-    ]
-  },
-  {
-    "Title": "ut ad",
-    "ReleaseDate": "1995-08-07",
-    "Description": "Consequat esse aute occaecat veniam consequat fugiat esse eiusmod incididunt dolore mollit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/23.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Mcleod",
-        "LastName": "Robertson"
-      },
-      {
-        "FirstName": "Yang",
-        "LastName": "Meyers"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.5605
-      },
-      {
-        "Value": 0.5073
-      },
-      {
-        "Value": 0.8876
-      }
-    ]
-  },
-  {
-    "Title": "magna non",
-    "ReleaseDate": "1993-10-20",
-    "Description": "Nisi et tempor enim commodo sunt Lorem.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/5.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Estela",
-        "LastName": "Lewis"
-      },
-      {
-        "FirstName": "Tami",
-        "LastName": "Johnston"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.3633
-      },
-      {
-        "Value": 1.5993
-      },
-      {
-        "Value": 4.5732
-      }
-    ]
-  },
-  {
-    "Title": "ullamco sit",
-    "ReleaseDate": "2016-06-01",
-    "Description": "Irure aliqua minim sint amet exercitation nisi adipisicing mollit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/83.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Claire",
-        "LastName": "Lowery"
-      },
-      {
-        "FirstName": "Guy",
-        "LastName": "Frank"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.9801
-      },
-      {
-        "Value": 1.4316
-      },
-      {
-        "Value": 3.0659
-      }
-    ]
-  },
-  {
-    "Title": "veniam adipisicing",
-    "ReleaseDate": "2020-04-27",
-    "Description": "Voluptate dolore proident in veniam.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/62.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Nadia",
-        "LastName": "Alston"
-      },
-      {
-        "FirstName": "Carole",
-        "LastName": "Dillard"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.4882
-      },
-      {
-        "Value": 0.996
-      },
-      {
-        "Value": 3.6787
-      }
-    ]
-  },
-  {
-    "Title": "duis laboris",
-    "ReleaseDate": "1982-11-05",
-    "Description": "Commodo Lorem ipsum deserunt aute incididunt exercitation excepteur reprehenderit aute pariatur veniam proident esse.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/65.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Judy",
-        "LastName": "Frye"
-      },
-      {
-        "FirstName": "Rhodes",
-        "LastName": "Floyd"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.0063
-      },
-      {
-        "Value": 2.7096
-      },
-      {
-        "Value": 2.3657
-      }
-    ]
-  },
-  {
-    "Title": "eiusmod quis",
-    "ReleaseDate": "2005-07-19",
-    "Description": "Voluptate laboris minim qui officia excepteur reprehenderit minim nisi.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/1.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Olivia",
-        "LastName": "Thomas"
-      },
-      {
-        "FirstName": "Livingston",
-        "LastName": "Hebert"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.5601
-      },
-      {
-        "Value": 1.9273
-      },
-      {
-        "Value": 2.2093
-      }
-    ]
-  },
-  {
-    "Title": "proident magna",
-    "ReleaseDate": "2017-06-02",
-    "Description": "Aliqua sunt enim id ut minim sit aliqua aliqua amet eiusmod ea aliqua.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/58.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Freeman",
-        "LastName": "Mcclure"
-      },
-      {
-        "FirstName": "Pierce",
-        "LastName": "Jackson"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.6714
-      },
-      {
-        "Value": 0.3979
-      },
-      {
-        "Value": 4.6932
-      }
-    ]
-  },
-  {
-    "Title": "nulla amet",
-    "ReleaseDate": "1986-12-12",
-    "Description": "Nulla laborum commodo pariatur laborum aliquip irure ut sunt do.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/23.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Jenkins",
-        "LastName": "Solomon"
-      },
-      {
-        "FirstName": "Mckee",
-        "LastName": "Carey"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.2312
-      },
-      {
-        "Value": 0.7842
-      },
-      {
-        "Value": 4.3977
-      }
-    ]
-  },
-  {
-    "Title": "exercitation nostrud",
-    "ReleaseDate": "2009-05-24",
-    "Description": "Pariatur nisi est voluptate non Lorem sint in ut fugiat fugiat ex irure nulla culpa.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Vaughn",
-        "LastName": "Moss"
-      },
-      {
-        "FirstName": "Mcfadden",
-        "LastName": "Bender"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.1007
-      },
-      {
-        "Value": 4.3343
-      },
-      {
-        "Value": 0.9943
-      }
-    ]
-  },
-  {
-    "Title": "consequat commodo",
-    "ReleaseDate": "1988-11-28",
-    "Description": "Excepteur consectetur sunt et esse consequat non magna dolor est.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/97.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Madelyn",
-        "LastName": "Mccoy"
-      },
-      {
-        "FirstName": "Frances",
-        "LastName": "Harrell"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.4657
-      },
-      {
-        "Value": 0.5298
-      },
-      {
-        "Value": 3.3807
-      }
-    ]
-  },
-  {
-    "Title": "aute ad",
-    "ReleaseDate": "2001-11-26",
-    "Description": "Sunt sint tempor et laboris commodo nostrud reprehenderit sit veniam fugiat ea do cupidatat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/52.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Corrine",
-        "LastName": "Wilcox"
-      },
-      {
-        "FirstName": "Eula",
-        "LastName": "Holden"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.3914
-      },
-      {
-        "Value": 4.7767
-      },
-      {
-        "Value": 4.5618
-      }
-    ]
-  },
-  {
-    "Title": "nisi velit",
-    "ReleaseDate": "2012-04-08",
-    "Description": "Et excepteur deserunt excepteur dolore aute pariatur occaecat labore.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/97.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Melanie",
-        "LastName": "Oneill"
-      },
-      {
-        "FirstName": "Dionne",
-        "LastName": "Sargent"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.2661
-      },
-      {
-        "Value": 3.7396
-      },
-      {
-        "Value": 3.5936
-      }
-    ]
-  },
-  {
-    "Title": "voluptate magna",
-    "ReleaseDate": "1990-02-18",
-    "Description": "Mollit quis tempor fugiat amet labore irure incididunt excepteur ullamco do.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/83.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Hodges",
-        "LastName": "Montgomery"
-      },
-      {
-        "FirstName": "Barker",
-        "LastName": "Hendricks"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.2783
-      },
-      {
-        "Value": 1.692
-      },
-      {
-        "Value": 1.093
-      }
-    ]
-  },
-  {
-    "Title": "excepteur labore",
-    "ReleaseDate": "2014-10-18",
-    "Description": "Esse laboris culpa nostrud officia magna ipsum sint enim excepteur elit aliquip dolore.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/9.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Gregory",
-        "LastName": "Terrell"
-      },
-      {
-        "FirstName": "Lorrie",
-        "LastName": "Jacobs"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.8216
-      },
-      {
-        "Value": 3.7153
-      },
-      {
-        "Value": 2.2466
-      }
-    ]
-  },
-  {
-    "Title": "irure culpa",
-    "ReleaseDate": "2010-04-16",
-    "Description": "Amet labore excepteur sunt voluptate consequat veniam occaecat nostrud cupidatat cillum dolor.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/48.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Angie",
-        "LastName": "Stephens"
-      },
-      {
-        "FirstName": "Elba",
-        "LastName": "Bradley"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.1618
-      },
-      {
-        "Value": 4.836
-      },
-      {
-        "Value": 3.4013
-      }
-    ]
-  },
-  {
-    "Title": "id anim",
-    "ReleaseDate": "2018-02-26",
-    "Description": "Minim et commodo fugiat incididunt ad fugiat et.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/14.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Tonia",
-        "LastName": "Cervantes"
-      },
-      {
-        "FirstName": "Walker",
-        "LastName": "Walters"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.7129
-      },
-      {
-        "Value": 4.6718
-      },
-      {
-        "Value": 4.4298
-      }
-    ]
-  },
-  {
-    "Title": "ipsum est",
-    "ReleaseDate": "2016-11-03",
-    "Description": "Reprehenderit mollit exercitation Lorem velit qui et enim ullamco veniam.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/30.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Guadalupe",
-        "LastName": "Knapp"
-      },
-      {
-        "FirstName": "Lenore",
-        "LastName": "Rowe"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.8956
-      },
-      {
-        "Value": 2.5847
-      },
-      {
-        "Value": 0.8545
-      }
-    ]
-  },
-  {
-    "Title": "magna qui",
-    "ReleaseDate": "2009-09-12",
-    "Description": "Velit sunt veniam proident officia eiusmod in esse.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Hubbard",
-        "LastName": "Sosa"
-      },
-      {
-        "FirstName": "Staci",
-        "LastName": "Murphy"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.7392
-      },
-      {
-        "Value": 3.8183
-      },
-      {
-        "Value": 1.4482
-      }
-    ]
-  },
-  {
-    "Title": "est cillum",
-    "ReleaseDate": "2015-05-29",
-    "Description": "Lorem ipsum dolore enim id proident quis ea dolore.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/36.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Fleming",
-        "LastName": "Flowers"
-      },
-      {
-        "FirstName": "Stacy",
-        "LastName": "Pennington"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.976
-      },
-      {
-        "Value": 4.7482
-      },
-      {
-        "Value": 2.6641
-      }
-    ]
-  },
-  {
-    "Title": "commodo est",
-    "ReleaseDate": "2009-11-05",
-    "Description": "Reprehenderit esse fugiat consequat eu deserunt consectetur consequat ea non cillum cupidatat magna do aute.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/98.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Daniel",
-        "LastName": "Bowers"
-      },
-      {
-        "FirstName": "Moore",
+        "FirstName": "Glenda",
         "LastName": "Tyson"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.8305
+        "Value": 0.02
       },
       {
-        "Value": 3.3024
+        "Value": 4.36
       },
       {
-        "Value": 2.2758
+        "Value": 0.8
       }
     ]
   },
   {
-    "Title": "ex esse",
-    "ReleaseDate": "2006-01-30",
-    "Description": "Duis nostrud minim duis esse duis eiusmod reprehenderit tempor id id aliqua ad fugiat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/77.jpg",
+    "Title": "The Godfather: Part II",
+    "ReleaseDate": "2012-03-12",
+    "Description": "Aliquip ut ea fugiat aute esse sunt magna dolor labore sint incididunt mollit cillum.",
+    "CoverUrl": "https://picsum.photos/id/192/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Robyn",
-        "LastName": "Walls"
+        "FirstName": "Reba",
+        "LastName": "Mcmahon"
       },
       {
-        "FirstName": "Gay",
-        "LastName": "Hood"
+        "FirstName": "Lorena",
+        "LastName": "Flores"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.5277
+        "Value": 3.04
       },
       {
-        "Value": 2.0123
+        "Value": 0.39
       },
       {
-        "Value": 2.6079
+        "Value": 3.39
       }
     ]
   },
   {
-    "Title": "ullamco do",
-    "ReleaseDate": "2019-01-29",
-    "Description": "Quis qui eu ut duis eiusmod anim incididunt et ipsum incididunt sint irure.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/85.jpg",
+    "Title": "Breaking Bad",
+    "ReleaseDate": "2006-03-30",
+    "Description": "Pariatur commodo mollit esse do non exercitation dolor esse exercitation et labore.",
+    "CoverUrl": "https://picsum.photos/id/172/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Marissa",
+        "LastName": "Mcgowan"
+      },
+      {
+        "FirstName": "Tonya",
+        "LastName": "Burns"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.07
+      },
+      {
+        "Value": 3.64
+      },
+      {
+        "Value": 1.07
+      }
+    ]
+  },
+  {
+    "Title": "The Dark Knight ",
+    "ReleaseDate": "1991-10-16",
+    "Description": "Fugiat esse consectetur velit quis cillum Lorem ipsum.",
+    "CoverUrl": "https://picsum.photos/id/186/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Rosalind",
-        "LastName": "Saunders"
+        "FirstName": "Bates",
+        "LastName": "Mendez"
       },
       {
-        "FirstName": "Jenifer",
-        "LastName": "Moses"
+        "FirstName": "Elaine",
+        "LastName": "Roberson"
       }
     ],
     "Ratings": [
       {
-        "Value": 0.1382
+        "Value": 1.58
       },
       {
-        "Value": 2.547
+        "Value": 0.06
       },
       {
-        "Value": 1.04
+        "Value": 4.44
       }
     ]
   },
   {
-    "Title": "laborum nostrud",
-    "ReleaseDate": "1984-06-18",
-    "Description": "Culpa qui duis fugiat quis dolor nisi nostrud dolor enim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/48.jpg",
+    "Title": "Big Bang Theory",
+    "ReleaseDate": "1973-11-16",
+    "Description": "Laborum magna labore sunt mollit.",
+    "CoverUrl": "https://picsum.photos/id/142/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Suzette",
-        "LastName": "Robles"
+        "FirstName": "Cotton",
+        "LastName": "Camacho"
       },
       {
-        "FirstName": "Morales",
-        "LastName": "Ratliff"
+        "FirstName": "Mcknight",
+        "LastName": "Mullen"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.9566
+        "Value": 3.81
       },
       {
-        "Value": 4.4427
+        "Value": 3.08
       },
       {
-        "Value": 4.1319
+        "Value": 2.91
       }
     ]
   },
   {
-    "Title": "mollit ipsum",
-    "ReleaseDate": "2000-08-28",
-    "Description": "Consectetur est adipisicing deserunt exercitation dolore pariatur consequat ullamco tempor veniam tempor fugiat anim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+    "Title": "Gossip Girl",
+    "ReleaseDate": "1991-03-23",
+    "Description": "Ad amet nulla laboris aliquip deserunt consequat ad dolor cillum.",
+    "CoverUrl": "https://picsum.photos/id/192/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Susanne",
-        "LastName": "Trevino"
+        "FirstName": "Lillie",
+        "LastName": "Cameron"
       },
       {
-        "FirstName": "Iris",
-        "LastName": "Gilliam"
+        "FirstName": "Little",
+        "LastName": "Schneider"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.3606
+        "Value": 0.87
       },
       {
-        "Value": 4.4636
+        "Value": 3.46
       },
       {
-        "Value": 1.6407
+        "Value": 0.44
       }
     ]
   },
   {
-    "Title": "proident reprehenderit",
-    "ReleaseDate": "1995-07-23",
-    "Description": "Ex occaecat eiusmod labore ea adipisicing eu veniam proident eu amet adipisicing Lorem.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/24.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Hayes",
-        "LastName": "Fitzpatrick"
-      },
-      {
-        "FirstName": "Noelle",
-        "LastName": "Frazier"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.3744
-      },
-      {
-        "Value": 0.054
-      },
-      {
-        "Value": 2.2082
-      }
-    ]
-  },
-  {
-    "Title": "cillum sint",
-    "ReleaseDate": "1989-07-02",
-    "Description": "Pariatur eiusmod non velit non do consectetur.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/59.jpg",
+    "Title": "Game of Thrones",
+    "ReleaseDate": "1983-03-31",
+    "Description": "Laboris cillum esse proident qui adipisicing eiusmod amet.",
+    "CoverUrl": "https://picsum.photos/id/200/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Tillman",
-        "LastName": "Rollins"
+        "FirstName": "Lucia",
+        "LastName": "Spencer"
       },
       {
-        "FirstName": "Terra",
-        "LastName": "Norman"
+        "FirstName": "Grace",
+        "LastName": "Rojas"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.0616
+        "Value": 2.53
       },
       {
-        "Value": 1.1311
+        "Value": 0.27
       },
       {
-        "Value": 3.5313
+        "Value": 3.92
       }
     ]
   },
   {
-    "Title": "ex aliquip",
-    "ReleaseDate": "2001-12-26",
-    "Description": "Anim adipisicing aliqua et eu.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+    "Title": "Planet Earth",
+    "ReleaseDate": "1980-11-16",
+    "Description": "Eiusmod consequat est do minim cupidatat.",
+    "CoverUrl": "https://picsum.photos/id/184/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Spence",
-        "LastName": "Rios"
+        "FirstName": "Felicia",
+        "LastName": "Fry"
       },
       {
-        "FirstName": "Thompson",
-        "LastName": "Lyons"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.3308
-      },
-      {
-        "Value": 3.8185
-      },
-      {
-        "Value": 2.4528
-      }
-    ]
-  },
-  {
-    "Title": "velit duis",
-    "ReleaseDate": "1992-04-11",
-    "Description": "Mollit sit consectetur nulla ullamco cupidatat officia reprehenderit culpa quis quis ullamco cupidatat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/25.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Jacobson",
-        "LastName": "Hickman"
-      },
-      {
-        "FirstName": "Mae",
-        "LastName": "Mercer"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.6602
-      },
-      {
-        "Value": 3.8566
-      },
-      {
-        "Value": 1.0312
-      }
-    ]
-  },
-  {
-    "Title": "deserunt in",
-    "ReleaseDate": "2000-04-28",
-    "Description": "Aliquip voluptate in fugiat nostrud qui ullamco.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/10.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Nguyen",
-        "LastName": "Curry"
-      },
-      {
-        "FirstName": "Meghan",
-        "LastName": "Durham"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.5483
-      },
-      {
-        "Value": 4.1007
-      },
-      {
-        "Value": 0.7937
-      }
-    ]
-  },
-  {
-    "Title": "in anim",
-    "ReleaseDate": "1984-05-31",
-    "Description": "Culpa dolore consectetur enim est voluptate ullamco veniam ullamco reprehenderit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/60.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Blevins",
-        "LastName": "Irwin"
-      },
-      {
-        "FirstName": "Joyce",
+        "FirstName": "Fran",
         "LastName": "Greene"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.4725
+        "Value": 4.31
       },
       {
-        "Value": 0.1736
+        "Value": 3.26
       },
       {
-        "Value": 1.6774
+        "Value": 3.96
       }
     ]
   },
   {
-    "Title": "quis culpa",
-    "ReleaseDate": "1988-04-12",
-    "Description": "Tempor sunt sunt quis non sit consequat aliquip proident fugiat culpa ea ullamco duis.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/28.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Bradley",
-        "LastName": "Barlow"
-      },
-      {
-        "FirstName": "Bartlett",
-        "LastName": "Rodriguez"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.1521
-      },
-      {
-        "Value": 0.4589
-      },
-      {
-        "Value": 1.0857
-      }
-    ]
-  },
-  {
-    "Title": "voluptate ipsum",
-    "ReleaseDate": "1997-11-25",
-    "Description": "Sit minim consectetur sit reprehenderit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/18.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Michele",
-        "LastName": "Macdonald"
-      },
-      {
-        "FirstName": "Woods",
-        "LastName": "Ramirez"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.3737
-      },
-      {
-        "Value": 2.0513
-      },
-      {
-        "Value": 1.3446
-      }
-    ]
-  },
-  {
-    "Title": "incididunt culpa",
-    "ReleaseDate": "2001-07-31",
-    "Description": "Ex elit occaecat officia ut anim sunt id nulla aute laboris.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/31.jpg",
+    "Title": "Schindler's List",
+    "ReleaseDate": "1993-03-23",
+    "Description": "Voluptate et qui dolore in aliquip non duis Lorem exercitation officia.",
+    "CoverUrl": "https://picsum.photos/id/120/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Raymond",
-        "LastName": "Griffith"
+        "FirstName": "Lottie",
+        "LastName": "Cochran"
       },
       {
-        "FirstName": "Chapman",
-        "LastName": "Collier"
+        "FirstName": "Bell",
+        "LastName": "Benson"
       }
     ],
     "Ratings": [
       {
-        "Value": 0.042
+        "Value": 0.81
       },
       {
-        "Value": 2.5215
+        "Value": 2.23
       },
       {
-        "Value": 0.1732
+        "Value": 4.12
       }
     ]
   },
   {
-    "Title": "dolor ullamco",
-    "ReleaseDate": "1995-09-28",
-    "Description": "Voluptate do occaecat commodo consectetur labore eu quis ipsum Lorem laborum culpa aute.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/97.jpg",
+    "Title": "The Wire",
+    "ReleaseDate": "2021-09-13",
+    "Description": "Reprehenderit occaecat magna nostrud elit do labore.",
+    "CoverUrl": "https://picsum.photos/id/188/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Moody",
-        "LastName": "Sharp"
+        "FirstName": "Summers",
+        "LastName": "Strickland"
       },
       {
-        "FirstName": "Fanny",
-        "LastName": "Reese"
+        "FirstName": "Green",
+        "LastName": "Woodward"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.4992
+        "Value": 4.84
       },
       {
-        "Value": 1.1847
+        "Value": 3.99
       },
       {
-        "Value": 2.8655
+        "Value": 3.42
       }
     ]
   },
   {
-    "Title": "do velit",
-    "ReleaseDate": "1990-09-29",
-    "Description": "In aliquip deserunt reprehenderit aute aute labore pariatur consectetur aute adipisicing reprehenderit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/40.jpg",
+    "Title": "Avatar: The Last Airbender",
+    "ReleaseDate": "2026-06-26",
+    "Description": "Consectetur cupidatat proident dolor ipsum commodo aliqua eiusmod incididunt commodo magna exercitation ipsum ipsum.",
+    "CoverUrl": "https://picsum.photos/id/191/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Schneider",
-        "LastName": "Mcknight"
+        "FirstName": "Charity",
+        "LastName": "Cote"
       },
       {
-        "FirstName": "Hays",
-        "LastName": "Campos"
+        "FirstName": "Pitts",
+        "LastName": "Mejia"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.106
+        "Value": 0.34
       },
       {
-        "Value": 3.3545
+        "Value": 0.8
       },
       {
-        "Value": 0.3096
+        "Value": 4.32
       }
     ]
   },
   {
-    "Title": "minim deserunt",
-    "ReleaseDate": "1981-11-10",
-    "Description": "Amet ex duis ex aute tempor id do ullamco nisi.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/32.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Potts",
-        "LastName": "Vazquez"
-      },
-      {
-        "FirstName": "Shari",
-        "LastName": "Erickson"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.918
-      },
-      {
-        "Value": 3.6035
-      },
-      {
-        "Value": 4.6392
-      }
-    ]
-  },
-  {
-    "Title": "consequat aliquip",
-    "ReleaseDate": "2008-01-18",
-    "Description": "Mollit excepteur anim dolor et qui.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+    "Title": "The Lord of the Rings: The Return of the King ",
+    "ReleaseDate": "2018-11-13",
+    "Description": "In dolor incididunt duis excepteur labore.",
+    "CoverUrl": "https://picsum.photos/id/131/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Naomi",
-        "LastName": "Peck"
+        "FirstName": "Polly",
+        "LastName": "Haney"
       },
       {
-        "FirstName": "Elva",
-        "LastName": "Sweeney"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.1157
-      },
-      {
-        "Value": 3.1972
-      },
-      {
-        "Value": 0.8651
-      }
-    ]
-  },
-  {
-    "Title": "do cupidatat",
-    "ReleaseDate": "2004-07-14",
-    "Description": "Officia tempor incididunt Lorem fugiat nulla minim culpa pariatur do.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/79.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Lucas",
-        "LastName": "Lambert"
-      },
-      {
-        "FirstName": "Kathy",
-        "LastName": "Wiley"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.5189
-      },
-      {
-        "Value": 3.5325
-      },
-      {
-        "Value": 1.8503
-      }
-    ]
-  },
-  {
-    "Title": "velit dolore",
-    "ReleaseDate": "1998-06-28",
-    "Description": "Aliquip fugiat amet veniam officia voluptate labore.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/37.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Carly",
-        "LastName": "Salas"
-      },
-      {
-        "FirstName": "Catalina",
-        "LastName": "England"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.6237
-      },
-      {
-        "Value": 2.8959
-      },
-      {
-        "Value": 3.6316
-      }
-    ]
-  },
-  {
-    "Title": "Lorem nulla",
-    "ReleaseDate": "1988-03-22",
-    "Description": "Laborum aliqua do velit officia ullamco.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/92.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Day",
-        "LastName": "Terry"
-      },
-      {
-        "FirstName": "Corina",
-        "LastName": "Bowman"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.002
-      },
-      {
-        "Value": 4.8446
-      },
-      {
-        "Value": 4.5834
-      }
-    ]
-  },
-  {
-    "Title": "nisi deserunt",
-    "ReleaseDate": "1999-10-19",
-    "Description": "Magna eu sint esse velit dolore ea do.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/82.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Gena",
-        "LastName": "Garza"
-      },
-      {
-        "FirstName": "Willie",
-        "LastName": "Burt"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.1469
-      },
-      {
-        "Value": 0.9824
-      },
-      {
-        "Value": 2.8248
-      }
-    ]
-  },
-  {
-    "Title": "est fugiat",
-    "ReleaseDate": "2006-10-20",
-    "Description": "Sint do fugiat dolore pariatur do.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/53.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Goodman",
-        "LastName": "Nieves"
-      },
-      {
-        "FirstName": "Ray",
-        "LastName": "Little"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.3882
-      },
-      {
-        "Value": 3.011
-      },
-      {
-        "Value": 4.5702
-      }
-    ]
-  },
-  {
-    "Title": "cupidatat nisi",
-    "ReleaseDate": "1989-09-09",
-    "Description": "Occaecat voluptate deserunt laborum duis dolor elit laborum velit duis et voluptate fugiat minim quis.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/42.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Lynn",
-        "LastName": "Barber"
-      },
-      {
-        "FirstName": "Kaitlin",
-        "LastName": "Walker"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.1148
-      },
-      {
-        "Value": 2.4722
-      },
-      {
-        "Value": 2.2754
-      }
-    ]
-  },
-  {
-    "Title": "ad do",
-    "ReleaseDate": "1991-09-26",
-    "Description": "Proident cillum mollit commodo officia officia.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/96.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Rose",
-        "LastName": "Mckinney"
-      },
-      {
-        "FirstName": "Lucile",
-        "LastName": "Morrison"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.6015
-      },
-      {
-        "Value": 1.47
-      },
-      {
-        "Value": 1.3228
-      }
-    ]
-  },
-  {
-    "Title": "enim aliquip",
-    "ReleaseDate": "2001-12-04",
-    "Description": "Sint nisi est velit veniam id duis.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/78.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Marks",
-        "LastName": "Winters"
-      },
-      {
-        "FirstName": "Mildred",
-        "LastName": "Campbell"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.6002
-      },
-      {
-        "Value": 4.9961
-      },
-      {
-        "Value": 3.6435
-      }
-    ]
-  },
-  {
-    "Title": "in minim",
-    "ReleaseDate": "1993-07-01",
-    "Description": "Aliqua dolor ea culpa commodo qui ut non.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/25.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Phillips",
-        "LastName": "Fields"
-      },
-      {
-        "FirstName": "Griffin",
-        "LastName": "Beasley"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.7074
-      },
-      {
-        "Value": 2.4758
-      },
-      {
-        "Value": 1.7476
-      }
-    ]
-  },
-  {
-    "Title": "mollit in",
-    "ReleaseDate": "2017-05-23",
-    "Description": "Proident officia sint sunt eu aliquip aliqua tempor nostrud.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/24.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Allison",
-        "LastName": "Hamilton"
-      },
-      {
-        "FirstName": "Donna",
-        "LastName": "Sherman"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.8116
-      },
-      {
-        "Value": 0.0799
-      },
-      {
-        "Value": 3.593
-      }
-    ]
-  },
-  {
-    "Title": "id officia",
-    "ReleaseDate": "2018-08-05",
-    "Description": "Enim magna labore ea eu est consequat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/37.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Cassandra",
-        "LastName": "Wagner"
-      },
-      {
-        "FirstName": "Rosetta",
-        "LastName": "Weiss"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.8198
-      },
-      {
-        "Value": 4.9016
-      },
-      {
-        "Value": 1.9813
-      }
-    ]
-  },
-  {
-    "Title": "laborum do",
-    "ReleaseDate": "2015-09-23",
-    "Description": "Incididunt consequat aliqua aute dolor in Lorem.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/2.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Margarita",
-        "LastName": "Bass"
-      },
-      {
-        "FirstName": "Tanner",
-        "LastName": "Shepard"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 3.7952
-      },
-      {
-        "Value": 0.1572
-      },
-      {
-        "Value": 0.1473
-      }
-    ]
-  },
-  {
-    "Title": "cupidatat nulla",
-    "ReleaseDate": "1985-04-23",
-    "Description": "Laborum nostrud et quis tempor dolor quis veniam nulla deserunt voluptate ipsum aliquip nisi.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Georgette",
-        "LastName": "Everett"
-      },
-      {
-        "FirstName": "Stokes",
-        "LastName": "Rose"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.0586
-      },
-      {
-        "Value": 3.1425
-      },
-      {
-        "Value": 3.2641
-      }
-    ]
-  },
-  {
-    "Title": "tempor dolore",
-    "ReleaseDate": "1991-11-10",
-    "Description": "Sint minim proident cillum eiusmod deserunt ut pariatur excepteur.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/78.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Antoinette",
-        "LastName": "Nicholson"
-      },
-      {
-        "FirstName": "Wendi",
-        "LastName": "French"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.2661
-      },
-      {
-        "Value": 2.1879
-      },
-      {
-        "Value": 0.0036
-      }
-    ]
-  },
-  {
-    "Title": "fugiat consectetur",
-    "ReleaseDate": "2005-03-13",
-    "Description": "Et officia culpa consequat labore est eiusmod.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/29.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Beverley",
-        "LastName": "Mcleod"
-      },
-      {
-        "FirstName": "Florence",
-        "LastName": "Schwartz"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.0958
-      },
-      {
-        "Value": 2.0826
-      },
-      {
-        "Value": 3.0797
-      }
-    ]
-  },
-  {
-    "Title": "esse commodo",
-    "ReleaseDate": "2004-10-08",
-    "Description": "Nisi ea incididunt culpa sunt minim consectetur deserunt cillum proident ad amet culpa ipsum.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/11.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Leann",
-        "LastName": "Hicks"
-      },
-      {
-        "FirstName": "Virginia",
-        "LastName": "Turner"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 2.3517
-      },
-      {
-        "Value": 2.5061
-      },
-      {
-        "Value": 2.7746
-      }
-    ]
-  },
-  {
-    "Title": "veniam eu",
-    "ReleaseDate": "1986-08-16",
-    "Description": "Labore duis amet dolore laboris consectetur anim aliqua Lorem nostrud elit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/12.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Valencia",
-        "LastName": "Rhodes"
-      },
-      {
-        "FirstName": "Josefina",
-        "LastName": "Ray"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 1.4977
-      },
-      {
-        "Value": 4.5271
-      },
-      {
-        "Value": 3.0331
-      }
-    ]
-  },
-  {
-    "Title": "ipsum ad",
-    "ReleaseDate": "2000-08-05",
-    "Description": "Consectetur irure minim sunt labore veniam ad non ut.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/94.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Candace",
-        "LastName": "Schultz"
-      },
-      {
-        "FirstName": "Cortez",
+        "FirstName": "Lorna",
         "LastName": "Preston"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.2354
+        "Value": 3.79
       },
       {
-        "Value": 2.8873
+        "Value": 0.97
       },
       {
-        "Value": 3.0254
+        "Value": 2.97
       }
     ]
   },
   {
-    "Title": "commodo sint",
-    "ReleaseDate": "2002-06-22",
-    "Description": "Id enim aliqua officia consequat ex laborum commodo deserunt.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/59.jpg",
-    "MediaType": 0,
+    "Title": "Rick and Morty ",
+    "ReleaseDate": "2004-08-20",
+    "Description": "Incididunt laborum elit pariatur veniam anim amet veniam anim quis laborum.",
+    "CoverUrl": "https://picsum.photos/id/145/200/300",
+    "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Sharon",
-        "LastName": "Lester"
+        "FirstName": "Deleon",
+        "LastName": "Pitts"
       },
       {
-        "FirstName": "Aida",
-        "LastName": "Fischer"
+        "FirstName": "Constance",
+        "LastName": "Hampton"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.7224
+        "Value": 2.4
       },
       {
-        "Value": 2.118
+        "Value": 3.2
       },
       {
-        "Value": 4.533
+        "Value": 2.57
       }
     ]
   },
   {
-    "Title": "do nulla",
-    "ReleaseDate": "1993-06-09",
-    "Description": "Qui aute fugiat anim cillum.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+    "Title": "The Matrix",
+    "ReleaseDate": "1985-07-20",
+    "Description": "Laborum aliqua dolore in proident culpa cillum sunt.",
+    "CoverUrl": "https://picsum.photos/id/147/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Martha",
+        "LastName": "Tate"
+      },
+      {
+        "FirstName": "Therese",
+        "LastName": "Johnson"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.34
+      },
+      {
+        "Value": 3.86
+      },
+      {
+        "Value": 3.1
+      }
+    ]
+  },
+  {
+    "Title": "The Office",
+    "ReleaseDate": "1985-09-12",
+    "Description": "Ipsum exercitation labore non id est commodo Lorem consectetur velit et.",
+    "CoverUrl": "https://picsum.photos/id/144/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Alisha",
+        "FirstName": "William",
+        "LastName": "Maxwell"
+      },
+      {
+        "FirstName": "Mcbride",
+        "LastName": "Ware"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.68
+      },
+      {
+        "Value": 0.56
+      },
+      {
+        "Value": 0.84
+      }
+    ]
+  },
+  {
+    "Title": "Seinfeld ",
+    "ReleaseDate": "1990-03-18",
+    "Description": "Mollit veniam eu in elit dolor quis esse.",
+    "CoverUrl": "https://picsum.photos/id/137/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Finley",
+        "LastName": "Montgomery"
+      },
+      {
+        "FirstName": "Gates",
+        "LastName": "Bridges"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.63
+      },
+      {
+        "Value": 3.18
+      },
+      {
+        "Value": 1.96
+      }
+    ]
+  },
+  {
+    "Title": "Friends",
+    "ReleaseDate": "2001-02-23",
+    "Description": "Voluptate deserunt cillum reprehenderit consectetur aute cillum exercitation elit sit.",
+    "CoverUrl": "https://picsum.photos/id/161/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Alexander",
+        "LastName": "Glass"
+      },
+      {
+        "FirstName": "Bailey",
+        "LastName": "Hinton"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.94
+      },
+      {
+        "Value": 1.46
+      },
+      {
+        "Value": 4.35
+      }
+    ]
+  },
+  {
+    "Title": "Squid Game",
+    "ReleaseDate": "2003-07-25",
+    "Description": "Adipisicing enim reprehenderit culpa elit ipsum labore cillum do ex.",
+    "CoverUrl": "https://picsum.photos/id/138/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Rosie",
+        "LastName": "Trujillo"
+      },
+      {
+        "FirstName": "Cote",
+        "LastName": "Roth"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.22
+      },
+      {
+        "Value": 1.34
+      },
+      {
+        "Value": 4.96
+      }
+    ]
+  },
+  {
+    "Title": "Walking Dead",
+    "ReleaseDate": "2011-08-16",
+    "Description": "Minim ad sint culpa esse voluptate est.",
+    "CoverUrl": "https://picsum.photos/id/115/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Parks",
         "LastName": "Moreno"
       },
       {
-        "FirstName": "Ines",
-        "LastName": "Santana"
+        "FirstName": "Dale",
+        "LastName": "Ochoa"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.4495
+        "Value": 1.98
       },
       {
-        "Value": 4.0485
+        "Value": 4.05
       },
       {
-        "Value": 1.6218
+        "Value": 2.35
       }
     ]
   },
   {
-    "Title": "Lorem tempor",
-    "ReleaseDate": "1993-08-27",
-    "Description": "Irure consectetur nisi velit ad amet enim tempor excepteur deserunt ad nisi.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/54.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Latonya",
-        "LastName": "Hawkins"
-      },
-      {
-        "FirstName": "Black",
-        "LastName": "Perez"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.448
-      },
-      {
-        "Value": 3.504
-      },
-      {
-        "Value": 4.1138
-      }
-    ]
-  },
-  {
-    "Title": "ex aliqua",
-    "ReleaseDate": "2015-11-08",
-    "Description": "Mollit amet minim exercitation anim ea dolore sunt voluptate proident occaecat culpa occaecat aliquip.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+    "Title": "Inception",
+    "ReleaseDate": "1973-05-25",
+    "Description": "Cillum in voluptate voluptate eiusmod nulla ex enim consectetur id quis ipsum.",
+    "CoverUrl": "https://picsum.photos/id/136/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Darla",
-        "LastName": "Woodard"
+        "FirstName": "Monroe",
+        "LastName": "Santiago"
       },
       {
-        "FirstName": "Moreno",
-        "LastName": "Frederick"
+        "FirstName": "Connie",
+        "LastName": "Fowler"
       }
     ],
     "Ratings": [
       {
-        "Value": 0.1611
+        "Value": 3.19
       },
       {
-        "Value": 2.5386
+        "Value": 1.54
       },
       {
-        "Value": 4.9633
+        "Value": 2.34
       }
     ]
   },
   {
-    "Title": "ut mollit",
-    "ReleaseDate": "2010-05-24",
-    "Description": "Est nisi incididunt esse velit eu anim veniam laborum tempor excepteur irure commodo.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+    "Title": "Star is born",
+    "ReleaseDate": "1980-11-12",
+    "Description": "Esse occaecat cupidatat et enim.",
+    "CoverUrl": "https://picsum.photos/id/185/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Earlene",
-        "LastName": "Boyle"
+        "FirstName": "Garner",
+        "LastName": "Caldwell"
       },
       {
-        "FirstName": "Craig",
-        "LastName": "Gross"
+        "FirstName": "Sims",
+        "LastName": "Allison"
       }
     ],
     "Ratings": [
       {
-        "Value": 4.4751
+        "Value": 3.02
       },
       {
-        "Value": 4.8978
+        "Value": 2.98
       },
       {
-        "Value": 4.2045
+        "Value": 2.45
       }
     ]
   },
   {
-    "Title": "qui quis",
-    "ReleaseDate": "1991-12-15",
-    "Description": "Adipisicing non dolore proident ex nulla pariatur pariatur et Lorem et ad mollit exercitation.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/34.jpg",
-    "MediaType": 1,
+    "Title": "Girl Interrupted",
+    "ReleaseDate": "1993-12-14",
+    "Description": "Eu aliquip ut ex est et proident sit.",
+    "CoverUrl": "https://picsum.photos/id/175/200/300",
+    "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Cole",
-        "LastName": "Quinn"
+        "FirstName": "Kimberley",
+        "LastName": "Boone"
       },
       {
-        "FirstName": "Floyd",
-        "LastName": "Morris"
+        "FirstName": "Pam",
+        "LastName": "Sosa"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.0926
+        "Value": 1
       },
       {
-        "Value": 4.5888
+        "Value": 1.13
       },
       {
-        "Value": 2.3802
+        "Value": 2.4
       }
     ]
   },
   {
-    "Title": "dolor officia",
-    "ReleaseDate": "1983-08-11",
-    "Description": "Consectetur eiusmod ut dolore in anim exercitation.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/10.jpg",
-    "MediaType": 1,
+    "Title": "How to get rid of a guy in 10 days",
+    "ReleaseDate": "2024-03-25",
+    "Description": "Id excepteur labore adipisicing duis sit magna amet ad non pariatur mollit labore ea.",
+    "CoverUrl": "https://picsum.photos/id/200/200/300",
+    "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Corinne",
-        "LastName": "Noble"
+        "FirstName": "Odonnell",
+        "LastName": "Burnett"
       },
       {
-        "FirstName": "Bennett",
-        "LastName": "Carney"
+        "FirstName": "Munoz",
+        "LastName": "Bruce"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.078
+        "Value": 2.75
       },
       {
-        "Value": 0.3951
+        "Value": 1.76
       },
       {
-        "Value": 1.2033
+        "Value": 1.58
       }
     ]
   },
   {
-    "Title": "do qui",
-    "ReleaseDate": "2008-01-29",
-    "Description": "Voluptate reprehenderit cillum culpa ut dolore ullamco nostrud reprehenderit consequat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+    "Title": "Lucifer",
+    "ReleaseDate": "2005-08-18",
+    "Description": "Adipisicing velit eu cillum deserunt ipsum eiusmod anim ullamco cupidatat laborum sint quis.",
+    "CoverUrl": "https://picsum.photos/id/107/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Patti",
-        "LastName": "Buck"
+        "FirstName": "Priscilla",
+        "LastName": "Stewart"
       },
+      {
+        "FirstName": "Mcmahon",
+        "LastName": "Black"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.64
+      },
+      {
+        "Value": 4.27
+      },
+      {
+        "Value": 3.52
+      }
+    ]
+  },
+  {
+    "Title": "Stranger Things",
+    "ReleaseDate": "2002-12-07",
+    "Description": "Ex veniam id sit ipsum consectetur dolor reprehenderit exercitation.",
+    "CoverUrl": "https://picsum.photos/id/166/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Mia",
+        "LastName": "Marsh"
+      },
+      {
+        "FirstName": "Kathrine",
+        "LastName": "Garner"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.4
+      },
+      {
+        "Value": 1.25
+      },
+      {
+        "Value": 4.99
+      }
+    ]
+  },
+  {
+    "Title": "velit",
+    "ReleaseDate": "2007-03-14",
+    "Description": "Laborum officia Lorem excepteur Lorem ullamco Lorem occaecat consectetur tempor qui nostrud voluptate laboris.",
+    "CoverUrl": "https://picsum.photos/id/171/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Logan",
+        "LastName": "Anthony"
+      },
+      {
+        "FirstName": "Jane",
+        "LastName": "Stone"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.64
+      },
+      {
+        "Value": 4.49
+      },
+      {
+        "Value": 0.7
+      }
+    ]
+  },
+  {
+    "Title": "magna id",
+    "ReleaseDate": "1996-05-22",
+    "Description": "Reprehenderit aute veniam veniam nostrud id.",
+    "CoverUrl": "https://picsum.photos/id/104/200/300",
+    "MediaType": 0,
+    "Cast": [
       {
         "FirstName": "Hester",
-        "LastName": "Galloway"
+        "LastName": "Baird"
+      },
+      {
+        "FirstName": "Margery",
+        "LastName": "Goff"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.12
+        "Value": 0.71
       },
       {
-        "Value": 1.9717
+        "Value": 2.14
       },
       {
-        "Value": 3.7386
+        "Value": 4.02
       }
     ]
   },
   {
-    "Title": "incididunt deserunt",
-    "ReleaseDate": "2012-11-07",
-    "Description": "Laboris dolore deserunt quis proident elit ut non non voluptate cupidatat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/64.jpg",
+    "Title": "non tempor",
+    "ReleaseDate": "1987-08-19",
+    "Description": "Et in occaecat duis enim exercitation.",
+    "CoverUrl": "https://picsum.photos/id/117/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Flores",
-        "LastName": "Holman"
+        "FirstName": "Socorro",
+        "LastName": "Simmons"
       },
       {
-        "FirstName": "Erna",
-        "LastName": "Howe"
+        "FirstName": "Bradley",
+        "LastName": "Riley"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.9115
+        "Value": 3.96
       },
       {
-        "Value": 4.9116
+        "Value": 2.97
       },
       {
-        "Value": 2.1634
+        "Value": 4.37
       }
     ]
   },
   {
-    "Title": "minim fugiat",
-    "ReleaseDate": "1987-11-11",
-    "Description": "Pariatur minim proident sit sunt ullamco eu aliqua id.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/40.jpg",
+    "Title": "qui est id",
+    "ReleaseDate": "2028-01-03",
+    "Description": "Mollit aliqua qui elit veniam et aliqua cupidatat et cillum aliquip irure est Lorem elit.",
+    "CoverUrl": "https://picsum.photos/id/146/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Miller",
-        "LastName": "Mendez"
+        "FirstName": "Emily",
+        "LastName": "French"
       },
       {
-        "FirstName": "Shelia",
-        "LastName": "Byrd"
+        "FirstName": "Saunders",
+        "LastName": "Koch"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.2495
+        "Value": 2.89
       },
       {
-        "Value": 3.7567
+        "Value": 4.79
       },
       {
-        "Value": 0.3751
+        "Value": 2.85
       }
     ]
   },
   {
-    "Title": "laborum veniam",
-    "ReleaseDate": "2010-10-22",
-    "Description": "Irure nisi tempor nulla occaecat voluptate laborum.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/22.jpg",
-    "MediaType": 0,
+    "Title": "qui aliqua",
+    "ReleaseDate": "1991-11-18",
+    "Description": "Excepteur adipisicing in et quis laboris sit esse dolor est ullamco consequat pariatur exercitation.",
+    "CoverUrl": "https://picsum.photos/id/162/200/300",
+    "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Higgins",
-        "LastName": "Reynolds"
+        "FirstName": "Phoebe",
+        "LastName": "Jones"
       },
       {
-        "FirstName": "Ball",
-        "LastName": "Rocha"
+        "FirstName": "Lula",
+        "LastName": "Brock"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.8228
+        "Value": 3.73
       },
       {
-        "Value": 1.5129
+        "Value": 4.21
       },
       {
-        "Value": 1.7576
+        "Value": 3.28
       }
     ]
   },
   {
-    "Title": "sit excepteur",
-    "ReleaseDate": "1993-08-23",
-    "Description": "Duis veniam do officia aute commodo nostrud.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/80.jpg",
+    "Title": "ea",
+    "ReleaseDate": "2017-04-11",
+    "Description": "Aliquip pariatur eu qui nostrud non Lorem consectetur proident.",
+    "CoverUrl": "https://picsum.photos/id/176/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Greta",
-        "LastName": "Banks"
+        "FirstName": "Gardner",
+        "LastName": "Maddox"
       },
       {
-        "FirstName": "Clay",
+        "FirstName": "Carla",
+        "LastName": "Dillon"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.23
+      },
+      {
+        "Value": 3.05
+      },
+      {
+        "Value": 3.09
+      }
+    ]
+  },
+  {
+    "Title": "ex",
+    "ReleaseDate": "1989-06-18",
+    "Description": "Ut aliqua officia incididunt sint.",
+    "CoverUrl": "https://picsum.photos/id/133/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Sheila",
+        "LastName": "Garcia"
+      },
+      {
+        "FirstName": "Carmela",
+        "LastName": "Holman"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.16
+      },
+      {
+        "Value": 3.98
+      },
+      {
+        "Value": 1.18
+      }
+    ]
+  },
+  {
+    "Title": "in ad",
+    "ReleaseDate": "1983-06-03",
+    "Description": "Eu laboris cillum duis culpa consectetur.",
+    "CoverUrl": "https://picsum.photos/id/144/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Sweeney",
+        "LastName": "Hurst"
+      },
+      {
+        "FirstName": "Carlene",
+        "LastName": "Velasquez"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.82
+      },
+      {
+        "Value": 2.13
+      },
+      {
+        "Value": 1.82
+      }
+    ]
+  },
+  {
+    "Title": "et pariatur",
+    "ReleaseDate": "1975-06-25",
+    "Description": "Ex dolore duis pariatur id duis.",
+    "CoverUrl": "https://picsum.photos/id/142/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Jody",
+        "LastName": "Charles"
+      },
+      {
+        "FirstName": "Britt",
         "LastName": "Collins"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.8321
+        "Value": 1.09
       },
       {
-        "Value": 2.674
+        "Value": 1.89
       },
       {
-        "Value": 4.9305
+        "Value": 1.64
       }
     ]
   },
   {
-    "Title": "magna dolor",
-    "ReleaseDate": "1996-06-07",
-    "Description": "Nisi minim tempor velit ullamco sint nisi excepteur dolore ipsum aliqua velit occaecat.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/70.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Langley",
-        "LastName": "Sanford"
-      },
-      {
-        "FirstName": "Georgina",
-        "LastName": "Ryan"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.013
-      },
-      {
-        "Value": 4.2754
-      },
-      {
-        "Value": 3.3888
-      }
-    ]
-  },
-  {
-    "Title": "id consequat",
-    "ReleaseDate": "2002-03-13",
-    "Description": "Fugiat adipisicing nostrud proident et enim elit ipsum reprehenderit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/20.jpg",
-    "MediaType": 1,
-    "Cast": [
-      {
-        "FirstName": "Bright",
-        "LastName": "Watts"
-      },
-      {
-        "FirstName": "Guerrero",
-        "LastName": "Hopkins"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.6275
-      },
-      {
-        "Value": 1.4749
-      },
-      {
-        "Value": 1.0181
-      }
-    ]
-  },
-  {
-    "Title": "pariatur enim",
-    "ReleaseDate": "2010-01-09",
-    "Description": "Nostrud aute anim ullamco mollit id sit velit fugiat in ad reprehenderit proident.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/96.jpg",
+    "Title": "irure",
+    "ReleaseDate": "1985-07-03",
+    "Description": "Deserunt ex laborum fugiat do.",
+    "CoverUrl": "https://picsum.photos/id/200/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Kim",
-        "LastName": "Koch"
+        "FirstName": "Wilkinson",
+        "LastName": "Keller"
       },
       {
-        "FirstName": "Sharpe",
+        "FirstName": "Jeanie",
+        "LastName": "York"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.77
+      },
+      {
+        "Value": 1.84
+      },
+      {
+        "Value": 2.29
+      }
+    ]
+  },
+  {
+    "Title": "labore consequat",
+    "ReleaseDate": "2003-01-02",
+    "Description": "Mollit ad fugiat aliquip in officia.",
+    "CoverUrl": "https://picsum.photos/id/199/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Pickett",
+        "LastName": "Barton"
+      },
+      {
+        "FirstName": "Morales",
+        "LastName": "Oconnor"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.29
+      },
+      {
+        "Value": 1.17
+      },
+      {
+        "Value": 0.85
+      }
+    ]
+  },
+  {
+    "Title": "voluptate",
+    "ReleaseDate": "2017-03-01",
+    "Description": "Nostrud fugiat et aliquip sunt ex non ut quis laboris aute.",
+    "CoverUrl": "https://picsum.photos/id/168/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Blevins",
+        "LastName": "Bush"
+      },
+      {
+        "FirstName": "Chase",
+        "LastName": "Sweet"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.32
+      },
+      {
+        "Value": 3.29
+      },
+      {
+        "Value": 0.51
+      }
+    ]
+  },
+  {
+    "Title": "nostrud",
+    "ReleaseDate": "1986-07-13",
+    "Description": "Reprehenderit ut duis aliquip nisi esse occaecat do reprehenderit elit.",
+    "CoverUrl": "https://picsum.photos/id/157/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Buchanan",
+        "LastName": "Odom"
+      },
+      {
+        "FirstName": "Ferguson",
+        "LastName": "Calhoun"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.31
+      },
+      {
+        "Value": 1.65
+      },
+      {
+        "Value": 4.92
+      }
+    ]
+  },
+  {
+    "Title": "esse nulla ea",
+    "ReleaseDate": "1983-02-17",
+    "Description": "Ullamco amet esse velit sint enim incididunt deserunt.",
+    "CoverUrl": "https://picsum.photos/id/168/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Roslyn",
+        "LastName": "Long"
+      },
+      {
+        "FirstName": "Jeanette",
+        "LastName": "Cabrera"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.51
+      },
+      {
+        "Value": 4.65
+      },
+      {
+        "Value": 0.36
+      }
+    ]
+  },
+  {
+    "Title": "sint",
+    "ReleaseDate": "1997-03-01",
+    "Description": "Qui cillum amet cillum esse exercitation sunt officia.",
+    "CoverUrl": "https://picsum.photos/id/131/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Meredith",
+        "LastName": "Page"
+      },
+      {
+        "FirstName": "Levine",
+        "LastName": "Hoffman"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.8
+      },
+      {
+        "Value": 2.18
+      },
+      {
+        "Value": 2.8
+      }
+    ]
+  },
+  {
+    "Title": "minim",
+    "ReleaseDate": "2004-03-20",
+    "Description": "Voluptate ipsum aliquip aute commodo Lorem proident consectetur dolore duis.",
+    "CoverUrl": "https://picsum.photos/id/153/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Kerri",
+        "LastName": "Weeks"
+      },
+      {
+        "FirstName": "Leigh",
+        "LastName": "Cross"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.08
+      },
+      {
+        "Value": 0.34
+      },
+      {
+        "Value": 3.17
+      }
+    ]
+  },
+  {
+    "Title": "aliqua esse",
+    "ReleaseDate": "1996-11-02",
+    "Description": "Minim exercitation est ea eu eu.",
+    "CoverUrl": "https://picsum.photos/id/1001/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Brigitte",
+        "LastName": "Bender"
+      },
+      {
+        "FirstName": "Beulah",
+        "LastName": "Nieves"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.77
+      },
+      {
+        "Value": 4.63
+      },
+      {
+        "Value": 4.77
+      }
+    ]
+  },
+  {
+    "Title": "officia",
+    "ReleaseDate": "1973-05-19",
+    "Description": "Occaecat elit cupidatat qui veniam nulla.",
+    "CoverUrl": "https://picsum.photos/id/142/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Sears",
+        "LastName": "Keith"
+      },
+      {
+        "FirstName": "Alta",
+        "LastName": "Ramirez"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.43
+      },
+      {
+        "Value": 3.67
+      },
+      {
+        "Value": 2.19
+      }
+    ]
+  },
+  {
+    "Title": "ut reprehenderit",
+    "ReleaseDate": "1987-08-21",
+    "Description": "Tempor anim culpa labore consectetur magna minim id consectetur irure pariatur aliqua aliqua exercitation tempor.",
+    "CoverUrl": "https://picsum.photos/id/118/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Nanette",
+        "LastName": "Dejesus"
+      },
+      {
+        "FirstName": "Buckley",
+        "LastName": "Frye"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.16
+      },
+      {
+        "Value": 1.82
+      },
+      {
+        "Value": 2.73
+      }
+    ]
+  },
+  {
+    "Title": "dolore",
+    "ReleaseDate": "2000-11-17",
+    "Description": "Amet exercitation excepteur do anim excepteur aliquip.",
+    "CoverUrl": "https://picsum.photos/id/162/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Knowles",
+        "LastName": "Jefferson"
+      },
+      {
+        "FirstName": "Crystal",
+        "LastName": "Huffman"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.49
+      },
+      {
+        "Value": 4.02
+      },
+      {
+        "Value": 1.55
+      }
+    ]
+  },
+  {
+    "Title": "eu eiusmod reprehenderit",
+    "ReleaseDate": "1979-02-20",
+    "Description": "Ea ipsum cupidatat id incididunt reprehenderit elit do proident.",
+    "CoverUrl": "https://picsum.photos/id/120/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Willa",
+        "LastName": "Hyde"
+      },
+      {
+        "FirstName": "Stevens",
+        "LastName": "Townsend"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.54
+      },
+      {
+        "Value": 1.25
+      },
+      {
+        "Value": 2.53
+      }
+    ]
+  },
+  {
+    "Title": "sunt cillum veniam",
+    "ReleaseDate": "1999-02-28",
+    "Description": "Commodo et veniam minim anim nisi non veniam sunt veniam ex velit esse consequat.",
+    "CoverUrl": "https://picsum.photos/id/179/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Wyatt",
+        "LastName": "Langley"
+      },
+      {
+        "FirstName": "Hurley",
+        "LastName": "Atkins"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.29
+      },
+      {
+        "Value": 4.14
+      },
+      {
+        "Value": 3.15
+      }
+    ]
+  },
+  {
+    "Title": "eu deserunt",
+    "ReleaseDate": "1994-03-16",
+    "Description": "Id est dolore deserunt esse incididunt reprehenderit et incididunt duis.",
+    "CoverUrl": "https://picsum.photos/id/175/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Wong",
+        "LastName": "Merrill"
+      },
+      {
+        "FirstName": "Christina",
+        "LastName": "Dominguez"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.26
+      },
+      {
+        "Value": 2.41
+      },
+      {
+        "Value": 0.41
+      }
+    ]
+  },
+  {
+    "Title": "consequat velit",
+    "ReleaseDate": "1999-12-24",
+    "Description": "Sint ullamco nulla quis qui anim et eiusmod nostrud incididunt velit nisi eu.",
+    "CoverUrl": "https://picsum.photos/id/185/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Bettie",
+        "LastName": "Bennett"
+      },
+      {
+        "FirstName": "Marian",
+        "LastName": "Cantrell"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.23
+      },
+      {
+        "Value": 1.71
+      },
+      {
+        "Value": 4.15
+      }
+    ]
+  },
+  {
+    "Title": "eu",
+    "ReleaseDate": "2010-07-12",
+    "Description": "Anim sint anim qui anim veniam minim ipsum Lorem fugiat do.",
+    "CoverUrl": "https://picsum.photos/id/137/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Guerra",
+        "LastName": "Rhodes"
+      },
+      {
+        "FirstName": "Colleen",
+        "LastName": "Guthrie"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.64
+      },
+      {
+        "Value": 4.49
+      },
+      {
+        "Value": 0.31
+      }
+    ]
+  },
+  {
+    "Title": "labore",
+    "ReleaseDate": "1996-12-08",
+    "Description": "Do adipisicing laborum ipsum nisi.",
+    "CoverUrl": "https://picsum.photos/id/101/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Hensley",
+        "LastName": "Chang"
+      },
+      {
+        "FirstName": "Barry",
+        "LastName": "Gardner"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.49
+      },
+      {
+        "Value": 1.42
+      },
+      {
+        "Value": 0.07
+      }
+    ]
+  },
+  {
+    "Title": "magna labore",
+    "ReleaseDate": "1997-11-08",
+    "Description": "Occaecat in cillum duis cillum.",
+    "CoverUrl": "https://picsum.photos/id/180/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Baird",
+        "LastName": "Farmer"
+      },
+      {
+        "FirstName": "Emerson",
+        "LastName": "Phelps"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.81
+      },
+      {
+        "Value": 4.61
+      },
+      {
+        "Value": 2.31
+      }
+    ]
+  },
+  {
+    "Title": "anim culpa",
+    "ReleaseDate": "2001-04-29",
+    "Description": "Consectetur irure labore aute consequat anim occaecat.",
+    "CoverUrl": "https://picsum.photos/id/101/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Ellen",
+        "LastName": "Mcclain"
+      },
+      {
+        "FirstName": "Kaufman",
+        "LastName": "King"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.63
+      },
+      {
+        "Value": 2.27
+      },
+      {
+        "Value": 0.31
+      }
+    ]
+  },
+  {
+    "Title": "enim",
+    "ReleaseDate": "1991-10-25",
+    "Description": "Dolore deserunt sunt in deserunt.",
+    "CoverUrl": "https://picsum.photos/id/110/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Forbes",
+        "LastName": "Rogers"
+      },
+      {
+        "FirstName": "Bridget",
+        "LastName": "Jordan"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.01
+      },
+      {
+        "Value": 2.13
+      },
+      {
+        "Value": 3.52
+      }
+    ]
+  },
+  {
+    "Title": "pariatur",
+    "ReleaseDate": "2015-10-28",
+    "Description": "Consequat tempor tempor ea est commodo commodo aliquip quis.",
+    "CoverUrl": "https://picsum.photos/id/187/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Phyllis",
+        "LastName": "Cash"
+      },
+      {
+        "FirstName": "Kaye",
+        "LastName": "Hoover"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.47
+      },
+      {
+        "Value": 3.84
+      },
+      {
+        "Value": 0.6
+      }
+    ]
+  },
+  {
+    "Title": "deserunt commodo",
+    "ReleaseDate": "2006-08-06",
+    "Description": "Ipsum culpa nulla in qui occaecat dolore ut pariatur aliqua.",
+    "CoverUrl": "https://picsum.photos/id/114/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Anastasia",
+        "LastName": "Franco"
+      },
+      {
+        "FirstName": "Farrell",
+        "LastName": "Lindsey"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.09
+      },
+      {
+        "Value": 2.74
+      },
+      {
+        "Value": 2.48
+      }
+    ]
+  },
+  {
+    "Title": "velit velit aliqua",
+    "ReleaseDate": "1993-05-27",
+    "Description": "Consectetur aute laboris occaecat adipisicing non nulla veniam sint reprehenderit sint in et.",
+    "CoverUrl": "https://picsum.photos/id/198/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Lorie",
+        "LastName": "Deleon"
+      },
+      {
+        "FirstName": "Rena",
+        "LastName": "Barrett"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.1
+      },
+      {
+        "Value": 4.98
+      },
+      {
+        "Value": 1.77
+      }
+    ]
+  },
+  {
+    "Title": "nostrud quis",
+    "ReleaseDate": "2025-12-24",
+    "Description": "Minim cupidatat duis incididunt est qui veniam amet sit et enim deserunt.",
+    "CoverUrl": "https://picsum.photos/id/160/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Noemi",
+        "LastName": "Mclean"
+      },
+      {
+        "FirstName": "Beryl",
+        "LastName": "Gilmore"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.87
+      },
+      {
+        "Value": 0.4
+      },
+      {
+        "Value": 0.04
+      }
+    ]
+  },
+  {
+    "Title": "ea deserunt in",
+    "ReleaseDate": "1973-05-25",
+    "Description": "Magna sint laborum laborum qui nostrud esse veniam ea tempor enim voluptate culpa cupidatat.",
+    "CoverUrl": "https://picsum.photos/id/156/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Rush",
+        "LastName": "Juarez"
+      },
+      {
+        "FirstName": "Berry",
+        "LastName": "Cole"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.38
+      },
+      {
+        "Value": 3.63
+      },
+      {
+        "Value": 3.03
+      }
+    ]
+  },
+  {
+    "Title": "cillum",
+    "ReleaseDate": "2025-07-16",
+    "Description": "Laborum est sint culpa amet consequat quis.",
+    "CoverUrl": "https://picsum.photos/id/115/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Ayala",
+        "LastName": "Dalton"
+      },
+      {
+        "FirstName": "Montoya",
+        "LastName": "Blankenship"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.81
+      },
+      {
+        "Value": 0.09
+      },
+      {
+        "Value": 3.63
+      }
+    ]
+  },
+  {
+    "Title": "reprehenderit adipisicing pariatur",
+    "ReleaseDate": "2020-07-24",
+    "Description": "Excepteur enim cupidatat velit ad amet dolor aliquip.",
+    "CoverUrl": "https://picsum.photos/id/192/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Battle",
+        "LastName": "Blair"
+      },
+      {
+        "FirstName": "Dixon",
+        "LastName": "Workman"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.25
+      },
+      {
+        "Value": 3.77
+      },
+      {
+        "Value": 2.88
+      }
+    ]
+  },
+  {
+    "Title": "eiusmod",
+    "ReleaseDate": "2004-01-15",
+    "Description": "Et adipisicing in ipsum laboris commodo voluptate in deserunt.",
+    "CoverUrl": "https://picsum.photos/id/102/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Marcia",
+        "LastName": "Whitley"
+      },
+      {
+        "FirstName": "Alice",
+        "LastName": "Woodard"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.24
+      },
+      {
+        "Value": 2.44
+      },
+      {
+        "Value": 3.45
+      }
+    ]
+  },
+  {
+    "Title": "cillum",
+    "ReleaseDate": "1989-04-20",
+    "Description": "Ad pariatur commodo dolore proident occaecat fugiat est nostrud do enim esse incididunt nostrud.",
+    "CoverUrl": "https://picsum.photos/id/115/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Byers",
+        "LastName": "Harper"
+      },
+      {
+        "FirstName": "Deirdre",
+        "LastName": "Dennis"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0
+      },
+      {
+        "Value": 3.01
+      },
+      {
+        "Value": 2.94
+      }
+    ]
+  },
+  {
+    "Title": "deserunt",
+    "ReleaseDate": "2016-08-14",
+    "Description": "Occaecat excepteur aute sit laborum aliqua fugiat nostrud.",
+    "CoverUrl": "https://picsum.photos/id/157/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Perry",
+        "LastName": "Swanson"
+      },
+      {
+        "FirstName": "Deborah",
+        "LastName": "Wilkerson"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.34
+      },
+      {
+        "Value": 2.36
+      },
+      {
+        "Value": 0.6
+      }
+    ]
+  },
+  {
+    "Title": "amet Lorem",
+    "ReleaseDate": "1976-05-25",
+    "Description": "Eiusmod ullamco eiusmod aliquip cupidatat fugiat nulla reprehenderit voluptate aliquip.",
+    "CoverUrl": "https://picsum.photos/id/181/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Betty",
+        "LastName": "Sanford"
+      },
+      {
+        "FirstName": "Martin",
+        "LastName": "Barron"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.52
+      },
+      {
+        "Value": 3.02
+      },
+      {
+        "Value": 2.35
+      }
+    ]
+  },
+  {
+    "Title": "fugiat",
+    "ReleaseDate": "1981-12-08",
+    "Description": "Eu consequat sunt minim consequat irure.",
+    "CoverUrl": "https://picsum.photos/id/100/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Floyd",
+        "LastName": "Stafford"
+      },
+      {
+        "FirstName": "Nash",
+        "LastName": "Jacobson"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.83
+      },
+      {
+        "Value": 0.01
+      },
+      {
+        "Value": 0.24
+      }
+    ]
+  },
+  {
+    "Title": "dolore sit veniam",
+    "ReleaseDate": "1993-02-01",
+    "Description": "Eu officia commodo laboris est veniam qui nostrud adipisicing reprehenderit nulla et aute ipsum.",
+    "CoverUrl": "https://picsum.photos/id/153/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Earline",
+        "LastName": "Snyder"
+      },
+      {
+        "FirstName": "Kelley",
+        "LastName": "Saunders"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.31
+      },
+      {
+        "Value": 4.12
+      },
+      {
+        "Value": 2.5
+      }
+    ]
+  },
+  {
+    "Title": "consequat dolor eu",
+    "ReleaseDate": "2011-04-24",
+    "Description": "Ea officia aliquip Lorem ullamco dolore proident eiusmod nostrud aute pariatur veniam occaecat.",
+    "CoverUrl": "https://picsum.photos/id/189/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "House",
+        "LastName": "Zamora"
+      },
+      {
+        "FirstName": "Catalina",
+        "LastName": "Eaton"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.39
+      },
+      {
+        "Value": 1.85
+      },
+      {
+        "Value": 3.51
+      }
+    ]
+  },
+  {
+    "Title": "nisi duis in",
+    "ReleaseDate": "1971-04-02",
+    "Description": "Eu non adipisicing laborum consectetur cillum magna tempor quis anim.",
+    "CoverUrl": "https://picsum.photos/id/140/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Bonita",
+        "LastName": "Wheeler"
+      },
+      {
+        "FirstName": "Wilma",
+        "LastName": "Bernard"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.95
+      },
+      {
+        "Value": 4.84
+      },
+      {
+        "Value": 2.57
+      }
+    ]
+  },
+  {
+    "Title": "irure labore",
+    "ReleaseDate": "1987-03-16",
+    "Description": "Sit cillum laboris excepteur adipisicing dolor in.",
+    "CoverUrl": "https://picsum.photos/id/114/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Virginia",
+        "LastName": "Hayden"
+      },
+      {
+        "FirstName": "Sampson",
+        "LastName": "Burgess"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.54
+      },
+      {
+        "Value": 3.64
+      },
+      {
+        "Value": 1.8
+      }
+    ]
+  },
+  {
+    "Title": "est ex",
+    "ReleaseDate": "1987-12-16",
+    "Description": "Sit duis est laborum adipisicing velit dolore magna.",
+    "CoverUrl": "https://picsum.photos/id/184/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Jordan",
+        "LastName": "Britt"
+      },
+      {
+        "FirstName": "Riley",
+        "LastName": "Atkinson"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.72
+      },
+      {
+        "Value": 1.91
+      },
+      {
+        "Value": 0.03
+      }
+    ]
+  },
+  {
+    "Title": "ea aute aute",
+    "ReleaseDate": "1995-04-09",
+    "Description": "Irure elit sit commodo exercitation laboris consequat mollit amet enim aute ad exercitation aute.",
+    "CoverUrl": "https://picsum.photos/id/143/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Haney",
+        "LastName": "Houston"
+      },
+      {
+        "FirstName": "Gutierrez",
+        "LastName": "Wall"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.3
+      },
+      {
+        "Value": 1.5
+      },
+      {
+        "Value": 2.22
+      }
+    ]
+  },
+  {
+    "Title": "velit 1",
+    "ReleaseDate": "2027-02-25",
+    "Description": "Consequat labore eu sit velit ut magna occaecat occaecat ipsum sunt culpa magna.",
+    "CoverUrl": "https://picsum.photos/id/122/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Turner",
+        "LastName": "Bradford"
+      },
+      {
+        "FirstName": "Kane",
+        "LastName": "Price"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.62
+      },
+      {
+        "Value": 4.78
+      },
+      {
+        "Value": 1.66
+      }
+    ]
+  },
+  {
+    "Title": "aute ullamco",
+    "ReleaseDate": "2005-11-11",
+    "Description": "Officia non do Lorem tempor commodo nulla duis velit quis enim.",
+    "CoverUrl": "https://picsum.photos/id/170/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Leona",
+        "LastName": "Sandoval"
+      },
+      {
+        "FirstName": "Kelley",
+        "LastName": "Pacheco"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.33
+      },
+      {
+        "Value": 3.46
+      },
+      {
+        "Value": 3.14
+      }
+    ]
+  },
+  {
+    "Title": "consequat proident",
+    "ReleaseDate": "1983-09-24",
+    "Description": "Ad cupidatat excepteur laboris deserunt pariatur ad esse qui.",
+    "CoverUrl": "https://picsum.photos/id/158/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Tracie",
+        "LastName": "Miles"
+      },
+      {
+        "FirstName": "Dickson",
         "LastName": "Arnold"
       }
     ],
     "Ratings": [
       {
-        "Value": 3.8123
+        "Value": 4.53
       },
       {
-        "Value": 3.773
+        "Value": 0.53
       },
       {
-        "Value": 0.5991
+        "Value": 0.48
       }
     ]
   },
   {
-    "Title": "minim id",
-    "ReleaseDate": "2019-03-23",
-    "Description": "Nostrud laboris irure exercitation amet voluptate consequat incididunt ullamco et.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/42.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Alyssa",
-        "LastName": "Curtis"
-      },
-      {
-        "FirstName": "Roberts",
-        "LastName": "Berger"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 0.8703
-      },
-      {
-        "Value": 4.5427
-      },
-      {
-        "Value": 1.1795
-      }
-    ]
-  },
-  {
-    "Title": "proident exercitation",
-    "ReleaseDate": "2004-04-03",
-    "Description": "Minim cupidatat laboris cillum quis fugiat et aliqua eiusmod duis sit qui quis veniam anim.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+    "Title": "et quis fugiat",
+    "ReleaseDate": "1971-07-13",
+    "Description": "Incididunt fugiat sint proident consequat adipisicing.",
+    "CoverUrl": "https://picsum.photos/id/170/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Petra",
-        "LastName": "Mercado"
+        "FirstName": "Terry",
+        "LastName": "Blevins"
       },
       {
-        "FirstName": "Audra",
-        "LastName": "Torres"
+        "FirstName": "Vicki",
+        "LastName": "Hamilton"
       }
     ],
     "Ratings": [
       {
-        "Value": 1.9444
+        "Value": 1.53
       },
       {
-        "Value": 0.3802
+        "Value": 4.34
       },
       {
-        "Value": 1.0772
+        "Value": 2.82
       }
     ]
   },
   {
-    "Title": "est consectetur",
-    "ReleaseDate": "2013-06-23",
-    "Description": "Velit laborum amet elit officia minim laboris eu culpa do ea in ullamco.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/23.jpg",
+    "Title": "dolore elit magna",
+    "ReleaseDate": "1970-08-06",
+    "Description": "Proident do adipisicing consectetur Lorem pariatur pariatur.",
+    "CoverUrl": "https://picsum.photos/id/135/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Johnson",
-        "LastName": "Benjamin"
+        "FirstName": "Janet",
+        "LastName": "Casey"
       },
       {
-        "FirstName": "Cohen",
-        "LastName": "Cooper"
+        "FirstName": "Hubbard",
+        "LastName": "Mcfadden"
       }
     ],
     "Ratings": [
       {
-        "Value": 0.9204
+        "Value": 0.47
       },
       {
-        "Value": 0.8797
+        "Value": 3.69
       },
       {
-        "Value": 4.5211
+        "Value": 1.81
       }
     ]
   },
   {
-    "Title": "consectetur proident",
-    "ReleaseDate": "1997-10-26",
-    "Description": "Sit veniam culpa nisi duis incididunt sit pariatur elit esse nulla nostrud velit reprehenderit culpa.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/88.jpg",
+    "Title": "aliquip",
+    "ReleaseDate": "2008-01-27",
+    "Description": "Nulla esse non elit eu fugiat ex nostrud aliquip reprehenderit.",
+    "CoverUrl": "https://picsum.photos/id/149/200/300",
     "MediaType": 0,
     "Cast": [
       {
-        "FirstName": "Parker",
-        "LastName": "Ward"
+        "FirstName": "Misty",
+        "LastName": "Cardenas"
       },
       {
-        "FirstName": "Wheeler",
-        "LastName": "Valentine"
+        "FirstName": "Josefa",
+        "LastName": "Hewitt"
       }
     ],
     "Ratings": [
       {
-        "Value": 2.7975
+        "Value": 4.03
       },
       {
-        "Value": 3.4284
+        "Value": 2.9
       },
       {
-        "Value": 1.8313
+        "Value": 2.41
       }
     ]
   },
   {
-    "Title": "enim laborum",
-    "ReleaseDate": "2017-02-03",
-    "Description": "Anim reprehenderit sint ad do anim culpa adipisicing adipisicing deserunt voluptate aute cupidatat elit tempor.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/37.jpg",
-    "MediaType": 0,
-    "Cast": [
-      {
-        "FirstName": "Vasquez",
-        "LastName": "Mayo"
-      },
-      {
-        "FirstName": "Carver",
-        "LastName": "Maynard"
-      }
-    ],
-    "Ratings": [
-      {
-        "Value": 4.5376
-      },
-      {
-        "Value": 0.9951
-      },
-      {
-        "Value": 1.7098
-      }
-    ]
-  },
-  {
-    "Title": "labore anim",
-    "ReleaseDate": "2018-08-20",
-    "Description": "Exercitation pariatur labore amet eu nisi non minim ex duis quis occaecat ut aute velit.",
-    "CoverUrl": "https://randomuser.me/api/portraits/women/9.jpg",
+    "Title": "do culpa velit",
+    "ReleaseDate": "1974-02-07",
+    "Description": "Anim non est voluptate tempor.",
+    "CoverUrl": "https://picsum.photos/id/169/200/300",
     "MediaType": 1,
     "Cast": [
       {
-        "FirstName": "Rhonda",
-        "LastName": "Fowler"
+        "FirstName": "Guerrero",
+        "LastName": "Duncan"
       },
       {
-        "FirstName": "Melisa",
-        "LastName": "Villarreal"
+        "FirstName": "Tran",
+        "LastName": "Strong"
       }
     ],
     "Ratings": [
       {
-        "Value": 4.2699
+        "Value": 3.36
       },
       {
-        "Value": 2.9977
+        "Value": 1.47
       },
       {
-        "Value": 0.8582
+        "Value": 0.43
+      }
+    ]
+  },
+  {
+    "Title": "veniam dolor",
+    "ReleaseDate": "1976-11-10",
+    "Description": "Id in sit mollit deserunt laboris sunt deserunt veniam.",
+    "CoverUrl": "https://picsum.photos/id/169/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Shepherd",
+        "LastName": "Garrett"
+      },
+      {
+        "FirstName": "Lyons",
+        "LastName": "Pearson"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.73
+      },
+      {
+        "Value": 0.91
+      },
+      {
+        "Value": 2.17
+      }
+    ]
+  },
+  {
+    "Title": "duis pariatur est",
+    "ReleaseDate": "2006-09-22",
+    "Description": "Veniam fugiat nisi adipisicing enim irure magna quis nulla.",
+    "CoverUrl": "https://picsum.photos/id/190/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Wiley",
+        "LastName": "Gray"
+      },
+      {
+        "FirstName": "Celia",
+        "LastName": "Delacruz"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.34
+      },
+      {
+        "Value": 3.79
+      },
+      {
+        "Value": 2.67
+      }
+    ]
+  },
+  {
+    "Title": "eiusmod et labore",
+    "ReleaseDate": "1991-06-04",
+    "Description": "Quis exercitation ipsum adipisicing pariatur excepteur elit dolor laborum aliqua ullamco amet anim.",
+    "CoverUrl": "https://picsum.photos/id/104/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Soto",
+        "LastName": "Ferguson"
+      },
+      {
+        "FirstName": "Alejandra",
+        "LastName": "Mcgee"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.3
+      },
+      {
+        "Value": 0.15
+      },
+      {
+        "Value": 0.62
+      }
+    ]
+  },
+  {
+    "Title": "ullamco est minim",
+    "ReleaseDate": "2006-01-03",
+    "Description": "Ex velit labore amet irure amet minim est ea mollit non.",
+    "CoverUrl": "https://picsum.photos/id/173/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Cheryl",
+        "LastName": "Fields"
+      },
+      {
+        "FirstName": "Robinson",
+        "LastName": "Marshall"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 2.8
+      },
+      {
+        "Value": 0.29
+      },
+      {
+        "Value": 0.84
+      }
+    ]
+  },
+  {
+    "Title": "veniam non",
+    "ReleaseDate": "1986-01-14",
+    "Description": "Ipsum sit irure velit labore qui quis commodo mollit nostrud commodo cupidatat ullamco ad.",
+    "CoverUrl": "https://picsum.photos/id/154/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Vera",
+        "LastName": "Harrison"
+      },
+      {
+        "FirstName": "Woodard",
+        "LastName": "Barker"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.66
+      },
+      {
+        "Value": 2.63
+      },
+      {
+        "Value": 3.45
+      }
+    ]
+  },
+  {
+    "Title": "deserunt ipsum",
+    "ReleaseDate": "2009-12-09",
+    "Description": "Ad aute incididunt aliqua nulla esse eiusmod officia aliquip aliqua in fugiat voluptate sit.",
+    "CoverUrl": "https://picsum.photos/id/171/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Angelina",
+        "LastName": "Wilder"
+      },
+      {
+        "FirstName": "Lorene",
+        "LastName": "Daugherty"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.44
+      },
+      {
+        "Value": 3.71
+      },
+      {
+        "Value": 0.9
+      }
+    ]
+  },
+  {
+    "Title": "excepteur consectetur",
+    "ReleaseDate": "2022-01-27",
+    "Description": "Excepteur nostrud sunt incididunt cupidatat.",
+    "CoverUrl": "https://picsum.photos/id/176/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Haley",
+        "LastName": "Becker"
+      },
+      {
+        "FirstName": "Madeline",
+        "LastName": "Clayton"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.94
+      },
+      {
+        "Value": 1.67
+      },
+      {
+        "Value": 2.08
+      }
+    ]
+  },
+  {
+    "Title": "ea id",
+    "ReleaseDate": "2022-06-18",
+    "Description": "Dolore quis consectetur nulla quis commodo ex non duis qui et esse cupidatat magna.",
+    "CoverUrl": "https://picsum.photos/id/132/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Dawson",
+        "LastName": "Doyle"
+      },
+      {
+        "FirstName": "Harriet",
+        "LastName": "Lamb"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.89
+      },
+      {
+        "Value": 0.51
+      },
+      {
+        "Value": 4.8
+      }
+    ]
+  },
+  {
+    "Title": "enim laboris sit",
+    "ReleaseDate": "2027-08-04",
+    "Description": "Do magna ullamco quis labore cupidatat proident consequat exercitation id occaecat quis fugiat mollit duis.",
+    "CoverUrl": "https://picsum.photos/id/156/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Alexandria",
+        "LastName": "Holder"
+      },
+      {
+        "FirstName": "Smith",
+        "LastName": "Pollard"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.1
+      },
+      {
+        "Value": 3.83
+      },
+      {
+        "Value": 2.04
+      }
+    ]
+  },
+  {
+    "Title": "velit",
+    "ReleaseDate": "1998-01-21",
+    "Description": "Lorem nulla minim duis quis nulla officia cupidatat dolor adipisicing.",
+    "CoverUrl": "https://picsum.photos/id/170/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Odom",
+        "LastName": "Oneal"
+      },
+      {
+        "FirstName": "Morrison",
+        "LastName": "Cherry"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.59
+      },
+      {
+        "Value": 4.69
+      },
+      {
+        "Value": 3.85
+      }
+    ]
+  },
+  {
+    "Title": "sint",
+    "ReleaseDate": "1988-10-26",
+    "Description": "Nisi ea dolor ipsum duis qui officia irure.",
+    "CoverUrl": "https://picsum.photos/id/186/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Buckner",
+        "LastName": "Forbes"
+      },
+      {
+        "FirstName": "Bernadette",
+        "LastName": "Irwin"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 4.56
+      },
+      {
+        "Value": 1.5
+      },
+      {
+        "Value": 2.03
+      }
+    ]
+  },
+  {
+    "Title": "cupidatat",
+    "ReleaseDate": "2024-07-30",
+    "Description": "Deserunt esse anim nostrud commodo eu proident pariatur ea aliqua aliqua consectetur.",
+    "CoverUrl": "https://picsum.photos/id/112/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Noble",
+        "LastName": "Madden"
+      },
+      {
+        "FirstName": "Lawanda",
+        "LastName": "Vaughn"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.82
+      },
+      {
+        "Value": 0.51
+      },
+      {
+        "Value": 3.7
+      }
+    ]
+  },
+  {
+    "Title": "et",
+    "ReleaseDate": "2003-12-24",
+    "Description": "Nulla magna aute quis deserunt dolore consectetur nostrud veniam reprehenderit qui laborum.",
+    "CoverUrl": "https://picsum.photos/id/140/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Lupe",
+        "LastName": "Crosby"
+      },
+      {
+        "FirstName": "Shannon",
+        "LastName": "Johnston"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.95
+      },
+      {
+        "Value": 1.49
+      },
+      {
+        "Value": 2.28
+      }
+    ]
+  },
+  {
+    "Title": "officia labore pariatur",
+    "ReleaseDate": "1972-07-19",
+    "Description": "Pariatur labore laborum excepteur fugiat dolor cupidatat excepteur pariatur pariatur.",
+    "CoverUrl": "https://picsum.photos/id/123/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Janis",
+        "LastName": "Farley"
+      },
+      {
+        "FirstName": "Wise",
+        "LastName": "Witt"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 1.54
+      },
+      {
+        "Value": 2.46
+      },
+      {
+        "Value": 3.95
+      }
+    ]
+  },
+  {
+    "Title": "adipisicing",
+    "ReleaseDate": "2003-06-18",
+    "Description": "Enim sit qui reprehenderit sunt dolor.",
+    "CoverUrl": "https://picsum.photos/id/106/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Finch",
+        "LastName": "Cook"
+      },
+      {
+        "FirstName": "Zimmerman",
+        "LastName": "Payne"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.86
+      },
+      {
+        "Value": 1.05
+      },
+      {
+        "Value": 0.64
+      }
+    ]
+  },
+  {
+    "Title": "commodo veniam",
+    "ReleaseDate": "1980-11-04",
+    "Description": "Dolor laboris exercitation labore reprehenderit dolore cillum cillum consectetur ullamco ipsum proident amet.",
+    "CoverUrl": "https://picsum.photos/id/171/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Howard",
+        "LastName": "Middleton"
+      },
+      {
+        "FirstName": "Velez",
+        "LastName": "Tanner"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.56
+      },
+      {
+        "Value": 1.37
+      },
+      {
+        "Value": 4.16
+      }
+    ]
+  },
+  {
+    "Title": "ea",
+    "ReleaseDate": "2017-02-26",
+    "Description": "Sunt qui sit qui aliqua.",
+    "CoverUrl": "https://picsum.photos/id/164/200/300",
+    "MediaType": 1,
+    "Cast": [
+      {
+        "FirstName": "Cooke",
+        "LastName": "Kramer"
+      },
+      {
+        "FirstName": "Collier",
+        "LastName": "Rosa"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.68
+      },
+      {
+        "Value": 3.63
+      },
+      {
+        "Value": 3.76
+      }
+    ]
+  },
+  {
+    "Title": "occaecat amet",
+    "ReleaseDate": "1982-01-26",
+    "Description": "Minim culpa aliqua elit elit amet esse.",
+    "CoverUrl": "https://picsum.photos/id/143/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Gill",
+        "LastName": "Singleton"
+      },
+      {
+        "FirstName": "Chen",
+        "LastName": "Randall"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 3.17
+      },
+      {
+        "Value": 0.13
+      },
+      {
+        "Value": 3.72
+      }
+    ]
+  },
+  {
+    "Title": "laborum",
+    "ReleaseDate": "2009-05-25",
+    "Description": "Ad nulla mollit exercitation in voluptate pariatur irure exercitation et id et.",
+    "CoverUrl": "https://picsum.photos/id/104/200/300",
+    "MediaType": 0,
+    "Cast": [
+      {
+        "FirstName": "Cooley",
+        "LastName": "Travis"
+      },
+      {
+        "FirstName": "West",
+        "LastName": "Noble"
+      }
+    ],
+    "Ratings": [
+      {
+        "Value": 0.22
+      },
+      {
+        "Value": 2.81
+      },
+      {
+        "Value": 3.2
       }
     ]
   }

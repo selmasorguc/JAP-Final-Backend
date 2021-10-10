@@ -3,6 +3,8 @@ using MovieApp.Core.Entities;
 using MovieApp.Core.Interfaces;
 using MovieApp.Database;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace MovieApp.Repository
@@ -42,6 +44,19 @@ namespace MovieApp.Repository
             await _context.SaveChangesAsync();
 
             return screening;
+        }
+
+        public async Task<List<Screening>> GetScreenings()
+        {
+            return await _context.Screenings.Include(s => s.SoldTickets)
+                                            .Include(s => s.Media)
+                                            .Where(s => s.StartTime >= DateTime.Now)
+                                            .ToListAsync();
+        }
+
+        public async Task<List<Address>> GetAddresses()
+        {
+            return await _context.Addresses.ToListAsync();
         }
     }
 }

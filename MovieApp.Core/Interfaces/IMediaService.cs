@@ -1,6 +1,5 @@
 using MovieApp.Core.DTOs;
 using MovieApp.Core.DTOs.MediaDtos;
-using MovieApp.Core.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

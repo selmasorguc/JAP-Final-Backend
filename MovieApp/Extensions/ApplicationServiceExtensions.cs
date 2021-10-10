@@ -1,13 +1,11 @@
 namespace MovieApp.Extensions
 {
     using Microsoft.AspNetCore.Authentication.JwtBearer;
-    using Microsoft.AspNetCore.Identity;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.IdentityModel.Tokens;
     using Microsoft.OpenApi.Models;
-    using MovieApp.Core.Entities;
     using MovieApp.Core.Interfaces;
     using MovieApp.Core.Services;
     using MovieApp.Database;
@@ -54,12 +52,10 @@ namespace MovieApp.Extensions
             services.AddScoped<IMediaService, MediaService>();
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<ITicketService, TicketService>();
-            services.AddScoped<IReportService, ReportService>();
             services.AddScoped<IRatingRepository, RatingRepository>();
             services.AddScoped<IRatingService, RatingService>();
             services.AddScoped<ITicketRepository, TicketRepository>();
             services.AddScoped<IScreeningRepository, ScreeningRepository>();
-            services.AddScoped<IReportRepository, ReportRepository>();
             services.AddScoped<IScreeningService, ScreeningService>();
 
             services.AddDbContext<DataContext>(options =>

@@ -15,6 +15,8 @@ namespace MovieApp.Core.Entities
         public int UserId { get; set; }
 
         public int MediaId { get; set; }
+
+        public Media Media { get; set; }
         public DateTime DateOfPurchase { get; set; } = DateTime.Now;
     }
 }

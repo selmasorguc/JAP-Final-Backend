@@ -3,6 +3,7 @@ using MovieApp.Core.DTOs.ScreeningDtos;
 using MovieApp.Core.Entities;
 using MovieApp.Core.Interfaces;
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace MovieApp.Core.Services
@@ -34,5 +35,22 @@ namespace MovieApp.Core.Services
             return serviceResponse;
         }
 
+        /// <summary>
+        /// Get list of addresses where screenings happen from DB
+        /// </summary>
+        /// <returns>List of factories</returns>
+        public async Task<ServiceResponse<List<Address>>> GetAddresses()
+        {
+            var response = new ServiceResponse<List<Address>>();
+            response.Data = await _screeningRepository.GetAddresses();
+            return response;
+        }
+
+        public async Task<ServiceResponse<List<GetScreeningDto>>> GetScreenings()
+        {
+            var response = new ServiceResponse<List<GetScreeningDto>>();
+            response.Data = _mapper.Map<List<GetScreeningDto>>(await _screeningRepository.GetScreenings());
+            return response;
+        }
     }
 }

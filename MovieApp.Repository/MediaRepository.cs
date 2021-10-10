@@ -114,7 +114,13 @@ namespace MovieApp.Repository
 
         public async Task<Media> AddMedia(Media media)
         {
-            _context.Media.Add(media);
+            _context.Add(media);
+            if (media.Cast.Count == 0 || media.Cast == null)
+            {
+                foreach (var actor in media.Cast)
+                    _context.Actors.Add(actor);
+
+            }
             await _context.SaveChangesAsync();
             return media;
         }

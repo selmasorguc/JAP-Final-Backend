@@ -5,6 +5,7 @@ namespace MovieApp.Mapper
     using MovieApp.Core.DTOs.MediaDtos;
     using MovieApp.Core.DTOs.ScreeningDtos;
     using MovieApp.Core.DTOs.TicketDtos;
+    using MovieApp.Core.DTOs.UserDtos;
     using MovieApp.Core.Entities;
 
     public class AutoMapperProfiles : Profile
@@ -23,9 +24,15 @@ namespace MovieApp.Mapper
             CreateMap<AddTicketDto, TicketDto>();
             CreateMap<Screening, ScreeningDto>();
             CreateMap<AddScreeningDto, Screening>();
+            CreateMap<Screening, AddScreeningDto>();
             CreateMap<AddScreeningDto, ScreeningDto>();
             CreateMap<AddMediaDto, Media>();
+            CreateMap<Media, AddMediaDto>();
             CreateMap<UpdateMediaDto, Media>();
+            CreateMap<Screening, GetScreeningDto>();
+            CreateMap<Ticket, GetTicketDto>();
+            CreateMap<AppUser, ProfileDto>();
+            CreateMap<AddActorDto, Actor>();
         }
     }
 }
