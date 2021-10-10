@@ -1,14 +1,17 @@
-# JAP MovieApp BACKEND
-## Junior Accelerator Program Task 1-2 Movie Application after review REFACTORING
+# JAP Final Task
+## Movie Application Back End
 
 Technologies used:
  - ASP .NET Core API
 
 # What is this project about?
 
-This task is continuing on the original JAP Task 1. The goal is to fix implementation and architectural mistakes made. 
+This is a .Net Core Web Api application created with three main functionalities: 
+1. Getting, creating and updating media that can be of Movie or Tv Show type. Also, searching and filtering media based on ratings so that top rated display can be provided on the front end.
+2. Screening creation and buying tickets
+3. User log in and registration, as well as impementation of two main user roles (regular user and admin)
 
-The solution is structured in 3 main parts:
+The solution is structured in 3 parts:
 
 ### CORE
  Consists of:
@@ -40,9 +43,14 @@ Is the main startup project that consists of
  
  # How to make API calls when authentication is needed?
  To use API buying tickets features ​/api​/tickets​/buy, login or registration is necessary to obtain the token.
- One user is initially seeded
- username: selma
- password: selma1
+ Two users are initially seeded
+ ADMIN
+ username: Selma
+ password: Selma1
+ 
+ REGULAR USER - member
+ username: Dummy
+ password: Dummy1
  
  ![image](https://user-images.githubusercontent.com/89447689/135115965-cac041c4-acad-44a9-aad1-5bd93318daf6.png)
 
@@ -58,18 +66,27 @@ After you make the login API call, copy the token and click on the Authorize but
 
 Media (which can be a movie or a tv show)
  - GET /api/media 
- - GET /api/ratings/average/{movieId}
- - POST ​/api​/ratings​/add
+ - POST /api/media
+ - PUT /api/media
+ - GET /api/media/{id}
 
-Just for stored procedures testing
+Ratings
+GET /api/ratings/average/{mediaId}
+POST /api/ratings/add
 
- - GET /api/reports/rated
- - GET​/api​/reports​/screened
- - GET/api/reports/sold
-
-Tickets and screening
+Tickets
  - POST ​/api​/tickets​/buy
+ - GET /api/tickets/user/{username}
+
+Screening
+- GET /api/screening/addresses
+- GET /api/screening
+- POST /api/screening
 
 Authentication
  - POST /api/users/register
  - POST /api/users/login
+
+## Postman collection to test OK, Bad Request and Unauthorized request
+
+Postman collection with 3 requests testing the Api is in the root folder under the name: Movie App Final Task.postman_collection
